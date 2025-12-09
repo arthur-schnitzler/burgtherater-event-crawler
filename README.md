@@ -10,3 +10,6 @@ https://kulturerbe-import.burgtheater.at/api/api/v1/calendar/1776
 
 ### performance-detail-view
 https://kulturerbe-import.burgtheater.at/api/api/v1/performance/6671cd3dcd334071f77645a3
+
+### person-detail-view
+https://kulturerbe-import.burgtheater.at/api/api/v1/person/6504166ba47588ad6024a95e
