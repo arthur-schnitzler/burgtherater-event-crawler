@@ -1,0 +1,1666 @@
+{
+  "_id": "66a6424f6af2b0e29fd5177d",
+  "uid": "0554f196-9459-458c-8373-c7098c880082",
+  "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+  "title": "Der Querulant",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-11-19T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Pfarrer Kajetan Pöchs",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9a8",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Hennings",
+      "role": "Doktor Max Burschian",
+      "fullName": "Fred Hennings"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Kaiserlicher Rat Doktor Schwanthaler",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Forstmeister Oedlinger",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "656cd92a00806585023581ab",
+      "firstName": "Auguste",
+      "lastName": "Pünkösdy",
+      "additional": "1890-1967",
+      "role": "Marie",
+      "fullName": "Auguste Pünkösdy"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac90",
+      "additional": "1877-1958",
+      "firstName": "Maria",
+      "lastName": "Mayer",
+      "role": "Sophie Lindauer",
+      "fullName": "Maria Mayer"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Leonhard Steurer",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0cc",
+      "additional": "1854-1951",
+      "firstName": "Willy",
+      "lastName": "Thaller",
+      "role": "Matthias Gunglbauer",
+      "fullName": "Willy Thaller"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Lois, sein Enkel",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Strasser",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024a621",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Blum",
+      "role": "Amtsdiener",
+      "fullName": "Fritz Blum"
+    },
+    {
+      "_id": "658f087c51cd38b410089d5b",
+      "firstName": "Fred",
+      "lastName": "Steinbacher",
+      "additional": "",
+      "role": "Kaspar",
+      "fullName": "Fred Steinbacher"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Sepp",
+      "fullName": "Karl Friedl"
+    },
+    {
+      "_id": "6504166ba47588ad6024b107",
+      "additional": "",
+      "firstName": "Marie",
+      "lastName": "Trentin",
+      "role": "Kathrindl",
+      "fullName": "Marie Trentin"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b29f",
+      "additional": "",
+      "firstName": "Hermann",
+      "lastName": "Bahr",
+      "fullName": "Hermann Bahr"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-19.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c3bd3ced60fbe230ce0",
+      "uid": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neueinstudierung",
+      "count": "10",
+      "date": "1937-11-03T12:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Sophie Lindauer",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Strasser",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Amtsdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Kaspar",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sepp",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0590.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-03.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-03_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6424f6af2b0e29fd5177d",
+      "uid": "0554f196-9459-458c-8373-c7098c880082",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-19T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Sophie Lindauer",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Strasser",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Amtsdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Kaspar",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sepp",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-19.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6aa1f6af2b0e29fdd4f31",
+      "uid": "bc1527c7-9fb9-47dc-92e3-05db56653063",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Sophie Lindauer",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Strasser",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Amtsdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Kaspar",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sepp",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-08.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-08_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682b77d4801253dbd5ce64d",
+      "uid": "de27654d-8627-418e-ad1a-741014d38634",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-13T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Sophie Lindauer",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Strasser",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Amtsdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Kaspar",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sepp",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000019.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e7113cd334071f77d8b69",
+      "uid": "df2c0027-e450-4a4a-a740-e03b67c13718",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-27T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Sophie Lindauer",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Strasser",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Amtsdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Kaspar",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Sepp",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000032.jpg"
+      ],
+      "comment": "Wegen Unpässlichkeit des Frl. Kramer statt \"Eine halbe Million\""
+    },
+    {
+      "_id": "668be7344801253dbd14d389",
+      "uid": "cac4141d-e93b-42d8-b3e3-0a8618634962",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1939-11-08T11:00:00.000Z",
+      "season": "1939/1940",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Sophie Lindauer",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Strasser",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Amtsdiener",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Kaspar",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aabc",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Kittel",
+          "role": "Sepp",
+          "fullName": "Wilhelm Kittel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1939/00000299.jpg"
+      ],
+      "comment": "Zum 70 jährigen Bühnenjubiläum Willi Thalers"
+    },
+    {
+      "_id": "668bf2c64801253dbd15cb23",
+      "uid": "3a3c8f22-3454-4d34-9f41-60e640493b15",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1939-11-18T11:00:00.000Z",
+      "season": "1939/1940",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie, seine Tochter",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sophie Lindauer, ihre Tante",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer, ein Agent",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer, Wegmacher",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Strasser, Diurnist",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Amtsdiener",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Kaspar, Knecht im Forsthaus",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aabc",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Kittel",
+          "role": "Sepp, Knecht im Forsthaus",
+          "fullName": "Wilhelm Kittel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl, Magd im Forsthaus",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1939/00000312.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668bf69f4801253dbd16229d",
+      "uid": "67dc1d14-3c9f-45cc-8946-16f6395910e2",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1939-11-26T11:00:00.000Z",
+      "season": "1939/1940",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie, seine Tochter",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sophie Lindauer, ihre Tante",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer, ein Agent",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer, Wegmacher",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Strasser, Diurnist",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Amtsdiener",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Kaspar, Knecht im Forsthaus",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aabc",
+          "additional": "",
+          "firstName": "Wilhelm",
+          "lastName": "Kittel",
+          "role": "Sepp, Knecht im Forsthaus",
+          "fullName": "Wilhelm Kittel"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl, Magd im Forsthaus",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1939/00000323.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668bf9694801253dbd16625a",
+      "uid": "de2f831a-f46a-4b37-be32-6f0e5b7594d4",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1939-12-03T11:00:00.000Z",
+      "season": "1939/1940",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie, seine Tochter",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Sophie Lindauer, ihre Tante",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer, ein Agent",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer, Wegmacher",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Strasser, Diurnist",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Amtsdiener",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Kaspar, Knecht im Forsthaus",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sepp, Knecht im Forsthaus",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl, Magd im Forsthaus",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1939/00000331.jpg"
+      ],
+      "comment": "Nachmittags 15 Uhr"
+    },
+    {
+      "_id": "668c08ec4801253dbd17ba3f",
+      "uid": "06b8610d-8b28-4e72-a196-c4e380e75ab7",
+      "productionId": "f5a4e7fc-196d-451e-88a1-be3a9df4ff9e",
+      "title": "Der Querulant",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1939-12-31T11:00:00.000Z",
+      "season": "1939/1940",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer Kajetan Pöchs",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Doktor Max Burschian",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Kaiserlicher Rat Doktor Schwanthaler",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Forstmeister Oedlinger",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Marie, seine Tochter",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Sophie Lindauer, ihre Tante",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Leonhard Steurer, ein Agent",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Matthias Gunglbauer, Wegmacher",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Lois, sein Enkel",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Strasser, Diurnist",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Amtsdiener",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Kaspar, Knecht im Forsthaus",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sepp, Knecht im Forsthaus",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Kathrindl, Magd im Forsthaus",
+          "fullName": "Marie Trentin"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b29f",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Bahr",
+          "fullName": "Hermann Bahr"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1939/00000364.jpg"
+      ],
+      "comment": "Nachmittags 15 Uhr"
+    }
+  ]
+}

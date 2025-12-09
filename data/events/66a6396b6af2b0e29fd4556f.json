@@ -1,0 +1,3631 @@
+{
+  "_id": "66a6396b6af2b0e29fd4556f",
+  "uid": "c05a7554-447d-4cd6-9d6e-a4ce928631af",
+  "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+  "title": "Der Meister von Palmyra",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-10-01T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b237",
+      "additional": "1901-1970",
+      "firstName": "Heinz",
+      "lastName": "Woester",
+      "role": "Apelles, der Meister von Palmyra",
+      "fullName": "Heinz Woester"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac90",
+      "additional": "1877-1958",
+      "firstName": "Maria",
+      "lastName": "Mayer",
+      "role": "Bolona, seine Mutter",
+      "fullName": "Maria Mayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae22",
+      "additional": "1886-1970",
+      "firstName": "Emmerich",
+      "lastName": "Reimers",
+      "role": "Timolaos",
+      "fullName": "Emmerich Reimers"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9c9",
+      "additional": "1877-1966",
+      "firstName": "Hofrat Franz",
+      "lastName": "Herterich",
+      "role": "Publius Saturninus",
+      "fullName": "Hofrat Franz Herterich"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac5d",
+      "additional": "1876-1949",
+      "firstName": "Hans",
+      "lastName": "Marr",
+      "role": "Julius Aurelius",
+      "fullName": "Hans Marr"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9a8",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Hennings",
+      "role": "Septimius",
+      "fullName": "Fred Hennings"
+    },
+    {
+      "_id": "6504166ba47588ad6024b050",
+      "additional": "1897-1974",
+      "firstName": "Felix",
+      "lastName": "Steinböck",
+      "role": "Longinus",
+      "fullName": "Felix Steinböck"
+    },
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "role": "Pausanias",
+      "fullName": "Raoul Aslan"
+    },
+    {
+      "_id": "6504166ba47588ad6024b14c",
+      "additional": "1904-1992",
+      "firstName": "Hilde",
+      "lastName": "Wagener",
+      "role": "Zoe",
+      "fullName": "Hilde Wagener"
+    },
+    {
+      "_id": "6504166ba47588ad6024b14c",
+      "additional": "1904-1992",
+      "firstName": "Hilde",
+      "lastName": "Wagener",
+      "role": "Phöbe",
+      "fullName": "Hilde Wagener"
+    },
+    {
+      "_id": "6504166ba47588ad6024b14c",
+      "additional": "1904-1992",
+      "firstName": "Hilde",
+      "lastName": "Wagener",
+      "role": "Persida",
+      "fullName": "Hilde Wagener"
+    },
+    {
+      "_id": "6504166ba47588ad6024b14c",
+      "additional": "1904-1992",
+      "firstName": "Hilde",
+      "lastName": "Wagener",
+      "role": "Nymphas",
+      "fullName": "Hilde Wagener"
+    },
+    {
+      "_id": "6504166ba47588ad6024b14c",
+      "additional": "1904-1992",
+      "firstName": "Hilde",
+      "lastName": "Wagener",
+      "role": "Zenobia",
+      "fullName": "Hilde Wagener"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Herennianos",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9ad7",
+      "additional": "1937-1944",
+      "firstName": "Ingeborg",
+      "lastName": "Fürst",
+      "role": "Tryphena",
+      "fullName": "Ingeborg Fürst"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Jamlichus",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Zabbäos",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Jarchai",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Agrippa",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a989",
+      "additional": "",
+      "firstName": "Ernst",
+      "lastName": "Haeusserman",
+      "role": "Mäonios",
+      "fullName": "Ernst Haeusserman"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad8f",
+      "additional": "1880-1954",
+      "firstName": "Albert",
+      "lastName": "Paulmann",
+      "role": "Bürger",
+      "fullName": "Albert Paulmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024aada",
+      "additional": "",
+      "firstName": "Rudolf",
+      "lastName": "Kleiser",
+      "role": "Bürger",
+      "fullName": "Rudolf Kleiser"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad67",
+      "additional": "",
+      "firstName": "Armand",
+      "lastName": "Ozory",
+      "role": "Sklave",
+      "fullName": "Armand Ozory"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac80",
+      "additional": "1936-1963",
+      "firstName": "Liselotte",
+      "lastName": "Medelsky",
+      "role": "Sklavin",
+      "fullName": "Liselotte Medelsky"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b33",
+      "additional": "1881-1970",
+      "firstName": "Ferdinand",
+      "lastName": "Onno",
+      "role": "Greis",
+      "fullName": "Ferdinand Onno"
+    },
+    {
+      "_id": "6504166ba47588ad6024b085",
+      "additional": "1868-1938",
+      "firstName": "Fritz",
+      "lastName": "Strassni",
+      "role": "Blinder",
+      "fullName": "Fritz Strassni"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa88",
+      "additional": "1885-1971",
+      "firstName": "Lilly",
+      "lastName": "Karoly",
+      "role": "Frau",
+      "fullName": "Lilly Karoly"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024aed1",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Salmhofer",
+      "fullName": "Franz Salmhofer",
+      "role": "Musik"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b5d6",
+      "additional": "1837-1911",
+      "firstName": "Adolf",
+      "lastName": "Wilbrandt",
+      "fullName": "Adolf Wilbrandt"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-01.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c37d3ced60fbe230008",
+      "uid": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "12",
+      "date": "1937-09-11T12:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Bolona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Septimius",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Tryphena",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Jamlichus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0588.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a631ba6af2b0e29fd3b603",
+      "uid": "8975fa73-fa99-4482-b86a-ed23c001c7db",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-15T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Volona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Septimius",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Tryphena",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Jamlichus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a632556af2b0e29fd3c24c",
+      "uid": "f6c00b08-0048-419f-a81c-56f768b65c26",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-17T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Volona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Septimius",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Tryphena",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Jamlichus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-17.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a633ff6af2b0e29fd3e5c5",
+      "uid": "0ad45cda-4f16-4f7b-843b-5953adc86aeb",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-20T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Volona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Septimius",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Tryphena",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Jamlichus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-20.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a633c06af2b0e29fd3e082",
+      "uid": "20a2df03-87b6-4fb0-abaf-9a87862c0502",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-21T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Volona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Septimius",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Tryphena",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Jamlichus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Sklave",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-21.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a635f26af2b0e29fd40dd4",
+      "uid": "639bd33f-8990-4910-ad5f-c68bc082731d",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-23T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Volona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Septimius",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Tryphena",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Jamlichus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-23.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a636936af2b0e29fd41abe",
+      "uid": "7153b98b-bd0b-41c2-95d4-6b2f52e9a643",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-27T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Volona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Septimius",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Tryphena",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Jamlichus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-27.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6396b6af2b0e29fd4556f",
+      "uid": "c05a7554-447d-4cd6-9d6e-a4ce928631af",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-01T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Bolona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Septimius",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Tryphena",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Jamlichus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63b5b6af2b0e29fd47ec7",
+      "uid": "fdc54ce0-86d7-46cb-b75f-58e3e0db8843",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-03T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Bolona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Septimius",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Tryphena",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Jamlichus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-03.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-03_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63b296af2b0e29fd47a92",
+      "uid": "558fff77-77f3-40e4-ad2d-7fd87aadb5dd",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-06T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Bolona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Septimius",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Tryphena",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Jamlichus",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63bc56af2b0e29fd48847",
+      "uid": "6a9d855d-9890-49d2-b369-92904f043c2e",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Bolona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Septimius",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Tryphena",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Jamlichus",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac80",
+          "additional": "1936-1963",
+          "firstName": "Liselotte",
+          "lastName": "Medelsky",
+          "role": "Sklavin",
+          "fullName": "Liselotte Medelsky"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-08.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63cfc6af2b0e29fd4a2e4",
+      "uid": "3259356e-e4bd-4e38-aab3-23dc4f13668a",
+      "productionId": "bd155bca-43be-4bb1-9a42-8a638ce5e96e",
+      "title": "Der Meister von Palmyra",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-14T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Apelles, der Meister von Palmyra",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Bolona, seine Mutter",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Timolaos",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Publius Saturninus",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Julius Aurelius",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Septimius",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Longinus",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Pausanias",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zoe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Phöbe",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Persida",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Nymphas",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Zenobia",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Herennianos",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Tryphena",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Jamlichus",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Zabbäos",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Jarchai",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Agrippa",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Mäonios",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Bürger",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Bürger",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Sklave",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Sklavin",
+          "fullName": "Julia Binder"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Greis",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Blinder",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Frau",
+          "fullName": "Lilly Karoly"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b5d6",
+          "additional": "1837-1911",
+          "firstName": "Adolf",
+          "lastName": "Wilbrandt",
+          "fullName": "Adolf Wilbrandt"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-14.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

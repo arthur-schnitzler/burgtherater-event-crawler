@@ -1,0 +1,500 @@
+{
+  "_id": "66a3fee76af2b0e29fa841e6",
+  "uid": "b75f6f66-795f-4a28-b09c-715faf8a8791",
+  "productionId": "fe1dd68d-79b4-4e68-8346-94f54863436d",
+  "title": "Wer ist schuldig?",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-04-17T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b050",
+      "additional": "1897-1974",
+      "firstName": "Felix",
+      "lastName": "Steinböck",
+      "role": "Holl",
+      "fullName": "Felix Steinböck"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Seine Frau",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Jeanette",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Gärtner",
+      "fullName": "Otto Hartmann"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024a778",
+      "additional": "1919-1938, 1945-1981",
+      "firstName": "Karl",
+      "lastName": "Eidlitz",
+      "fullName": "Karl Eidlitz",
+      "role": "Regie"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b3c9",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Grillparzer",
+      "fullName": "Franz Grillparzer"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000113.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c21d3ced60fbe22a756",
+      "uid": "fe1dd68d-79b4-4e68-8346-94f54863436d",
+      "productionId": "fe1dd68d-79b4-4e68-8346-94f54863436d",
+      "title": "Wer ist schuldig?",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "7",
+      "date": "1936-01-11T12:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Holl",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Seine Frau",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Jeanette",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gärtner",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0576.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1936/00000013.jpg"
+      ],
+      "comment": "1  der 7 Aufführungen im Oberen Belvedere"
+    },
+    {
+      "_id": "66a3fee76af2b0e29fa841e6",
+      "uid": "b75f6f66-795f-4a28-b09c-715faf8a8791",
+      "productionId": "fe1dd68d-79b4-4e68-8346-94f54863436d",
+      "title": "Wer ist schuldig?",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Holl",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Seine Frau",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Jeanette",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gärtner",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000113.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a401566af2b0e29fa87301",
+      "uid": "c5599090-fe10-404d-b3d5-e4d389a1c795",
+      "productionId": "fe1dd68d-79b4-4e68-8346-94f54863436d",
+      "title": "Wer ist schuldig?",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Holl",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Seine Frau",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Jeanette",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gärtner",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000117.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a402126af2b0e29fa8822e",
+      "uid": "5e728af5-f7dd-4250-8c01-af84803c3314",
+      "productionId": "fe1dd68d-79b4-4e68-8346-94f54863436d",
+      "title": "Wer ist schuldig?",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Holl",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Seine Frau",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Jeanette",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gärtner",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000118.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4079b6af2b0e29fa8f28a",
+      "uid": "ea2f6fd5-9dfd-4fdb-836b-ed14ba64eea1",
+      "productionId": "fe1dd68d-79b4-4e68-8346-94f54863436d",
+      "title": "Wer ist schuldig?",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Holl",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Seine Frau",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Jeanette",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gärtner",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000128.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40f006af2b0e29fa98acf",
+      "uid": "0b3fcb42-8084-4037-8482-91d3a2af3b1e",
+      "productionId": "fe1dd68d-79b4-4e68-8346-94f54863436d",
+      "title": "Wer ist schuldig?",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Holl",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Seine Frau",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Jeanette",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Gärtner",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000143.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

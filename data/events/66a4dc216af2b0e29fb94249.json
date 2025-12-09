@@ -1,0 +1,3097 @@
+{
+  "_id": "66a4dc216af2b0e29fb94249",
+  "uid": "b38f828d-0824-415b-ac46-586d8f4f05b0",
+  "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+  "title": "Tante Olgas beste Idee",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-10-26T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024b069",
+      "additional": "",
+      "firstName": "Lilly",
+      "lastName": "Stepanek",
+      "role": "Margarete, seine Frau und Assistentin",
+      "fullName": "Lilly Stepanek"
+    },
+    {
+      "_id": "6504166ba47588ad6024a612",
+      "additional": "1868-1958",
+      "firstName": "Hedwig",
+      "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+      "role": "Olga, seine Tante",
+      "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+    },
+    {
+      "_id": "6504166ba47588ad6024a786",
+      "additional": "1896-1954",
+      "firstName": "Maria",
+      "lastName": "Eis",
+      "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+      "fullName": "Maria Eis"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "role": "Wladimir Compolsky, Filmregisseur",
+      "fullName": "Hans Wengraf"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Doktor Gustav Koks, Universitätsprofessor",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "6504166ba47588ad6024af31",
+      "additional": "Autor, 1891-1963",
+      "firstName": "Wilhelm",
+      "lastName": "Schmidt",
+      "role": "Hofrat Stöckl",
+      "fullName": "Wilhelm Schmidt"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab9e",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Leddihn",
+      "role": "Filmdebutantin",
+      "fullName": "Inge Leddihn"
+    },
+    {
+      "_id": "6504166ba47588ad6024a578",
+      "additional": "Erni",
+      "firstName": "Ernestine",
+      "lastName": "Bauer",
+      "role": "Das Mädchen",
+      "fullName": "Ernestine Bauer"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "fullName": "Hans Wengraf",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024add3",
+      "additional": "",
+      "firstName": "Emil",
+      "lastName": "Pirchan",
+      "fullName": "Emil Pirchan",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b83d",
+      "additional": "",
+      "firstName": "Peter von",
+      "lastName": "Preradovic",
+      "fullName": "Peter von Preradovic"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000252.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c39d3ced60fbe2305e8",
+      "uid": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "24",
+      "date": "1937-10-02T12:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0589.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000224.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d82e6af2b0e29fb8e696",
+      "uid": "06e0fa66-8431-4057-8315-08ed1cf635b1",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-04T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000227.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d86c6af2b0e29fb8ebe6",
+      "uid": "55ebff48-b89a-4eed-bf22-8d4cb764d71f",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000228.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d9566af2b0e29fb9006f",
+      "uid": "cb975ab3-0c33-49ca-9b13-9cba074c1caf",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000228.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d8a86af2b0e29fb8f14d",
+      "uid": "92bac5d8-a47a-408f-b791-345899928a61",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-06T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000229.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d9406af2b0e29fb8fe24",
+      "uid": "a65b314f-6ece-41c4-af77-0c8f84f2d93f",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000231.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dab76af2b0e29fb91f31",
+      "uid": "f132270f-af7c-40f3-b2a0-437f830bef7f",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-11T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000235.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4da416af2b0e29fb9153d",
+      "uid": "6030871b-f74d-45c9-8163-a9f831274dad",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-12T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000236.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dadc6af2b0e29fb92319",
+      "uid": "358ad831-f3a6-423b-a3f2-74c8abb02b28",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-16T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000240.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4db0f6af2b0e29fb92743",
+      "uid": "89c95a1c-2de4-4096-8709-f087d9f66e6e",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-17T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000242.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4db806af2b0e29fb93284",
+      "uid": "4d51bf2b-f4e7-4e4e-b230-46f7c589973e",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-20T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000245.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dbb16af2b0e29fb93712",
+      "uid": "be2e1f0e-029b-4add-8c51-76ace2bdec8c",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-21T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000246.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dbb96af2b0e29fb937fe",
+      "uid": "7a4709e5-bf37-4679-b258-cfb671802a56",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-22T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000247.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dc056af2b0e29fb93feb",
+      "uid": "d0678fec-29e9-4be4-aa25-8302f41d311c",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-24T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000250.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dc216af2b0e29fb94249",
+      "uid": "b38f828d-0824-415b-ac46-586d8f4f05b0",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-26T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000252.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dc7e6af2b0e29fb94aa0",
+      "uid": "c2fe9883-0cef-4965-83e9-cbc2f56e0ae7",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-28T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000254.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dd6c6af2b0e29fb96085",
+      "uid": "06f624b0-e60e-4c2d-9e9b-c36dc2eb21f2",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-02T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000260.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4de356af2b0e29fb97346",
+      "uid": "1614abdc-2a55-4064-8492-fa18e7066c08",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-07T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000265.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4de936af2b0e29fb97c3d",
+      "uid": "66dc0b0c-663f-4bf7-8a4f-dee450f071a2",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-10T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000269.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dee56af2b0e29fb98421",
+      "uid": "05f0a461-1bdc-46bc-b41b-6029e940c7ae",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-14T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000273.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4df2a6af2b0e29fb98b58",
+      "uid": "6aa40bb5-4b13-4ef3-a287-825de5352f8f",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-15T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000275.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4dffe6af2b0e29fb99dd8",
+      "uid": "8824b939-e0cb-461a-a3c6-7033e4334353",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-21T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000281.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e2ae6af2b0e29fb9d784",
+      "uid": "05dab07a-1694-446f-8a2e-fb0786a3d4e3",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-28T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Das Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000288.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e6428cd334071f77c5177",
+      "uid": "21b2c8ae-902f-4c8c-8824-707e47518403",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-01T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Doktor Gustav Koks",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e68b2cd334071f77cc436",
+      "uid": "04305461-aa1b-4b31-910d-1e098dad431a",
+      "productionId": "66fd8cb6-a287-4955-88aa-a0a77182f23b",
+      "title": "Tante Olgas beste Idee",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-06T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Doktor Robert Magnus, Universitätsdozent für Etruskologie",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Margarete, seine Frau und Assistentin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Olga, seine Tante",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Lya Lya, Filmschauspielerin, seine Cousine",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Wladimir Compolsky, Filmregisseur",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Doktor Gustav Koks, Universitätsprofessor",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Hofrat Stöckl",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Filmdebutantin",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Mädchen",
+          "fullName": "Ernestine Bauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b83d",
+          "additional": "",
+          "firstName": "Peter von",
+          "lastName": "Preradovic",
+          "fullName": "Peter von Preradovic"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000008.jpg"
+      ],
+      "comment": "Nachmittags 4 Uhr"
+    }
+  ]
+}

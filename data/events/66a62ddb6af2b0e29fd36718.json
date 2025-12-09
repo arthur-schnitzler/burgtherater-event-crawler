@@ -1,0 +1,1453 @@
+{
+  "_id": "66a62ddb6af2b0e29fd36718",
+  "uid": "0e5c61fa-b619-4979-9da1-51f283c1c786",
+  "productionId": "7e0ce73f-2801-43f7-9c78-22c070327b37",
+  "title": "Das Salzburger große Welttheater",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-09-10T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "König",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024a8e1",
+      "additional": "1901-1949",
+      "firstName": "Nora",
+      "lastName": "Gregor",
+      "role": "Schönheit",
+      "fullName": "Nora Gregor"
+    },
+    {
+      "_id": "6504166ba47588ad6024b211",
+      "additional": "1881-1972",
+      "firstName": "Else",
+      "lastName": "Wohlgemuth",
+      "role": "Weisheit",
+      "fullName": "Else Wohlgemuth"
+    },
+    {
+      "_id": "6504166ba47588ad6024b237",
+      "additional": "1901-1970",
+      "firstName": "Heinz",
+      "lastName": "Woester",
+      "role": "Reicher",
+      "fullName": "Heinz Woester"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Bauer",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "role": "Bettler",
+      "fullName": "Raoul Aslan"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Prophet",
+      "fullName": "Karl Friedl"
+    },
+    {
+      "_id": "6504166ba47588ad6024a786",
+      "additional": "1896-1954",
+      "firstName": "Maria",
+      "lastName": "Eis",
+      "role": "Welt",
+      "fullName": "Maria Eis"
+    },
+    {
+      "_id": "6504166ba47588ad6024a989",
+      "additional": "",
+      "firstName": "Ernst",
+      "lastName": "Haeusserman",
+      "role": "Vorwitz",
+      "fullName": "Ernst Haeusserman"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9c9",
+      "additional": "1877-1966",
+      "firstName": "Hofrat Franz",
+      "lastName": "Herterich",
+      "role": "Tod",
+      "fullName": "Hofrat Franz Herterich"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b36",
+      "additional": "1888-1961",
+      "firstName": "Paul",
+      "lastName": "Pranger",
+      "role": "Widersacher",
+      "fullName": "Paul Pranger"
+    },
+    {
+      "_id": "656cd92a00806585023581ab",
+      "firstName": "Auguste",
+      "lastName": "Pünkösdy",
+      "additional": "1890-1967",
+      "role": "Engel",
+      "fullName": "Auguste Pünkösdy"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac86",
+      "additional": "1913-1953",
+      "firstName": "Maria",
+      "lastName": "Mayen",
+      "role": "Engel",
+      "fullName": "Maria Mayen"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Engel",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad65",
+      "additional": "1928-1953",
+      "firstName": "Elisabeth",
+      "lastName": "Ortner-Kallina (Kallina)",
+      "role": "Engel",
+      "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "658ff71851cd38b4100c5c9f",
+      "firstName": "Einar",
+      "lastName": "Nilson",
+      "additional": "",
+      "fullName": "Einar Nilson",
+      "role": "Musik"
+    },
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "fullName": "Raoul Aslan",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "fullName": "Raoul Aslan",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024aed1",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Salmhofer",
+      "fullName": "Franz Salmhofer",
+      "role": "Musikalische Einrichtung"
+    },
+    {
+      "_id": "6504166ba47588ad6024abec",
+      "additional": "",
+      "firstName": "Rudolf",
+      "lastName": "Lisatz",
+      "fullName": "Rudolf Lisatz",
+      "role": "Technische Einrichtung"
+    },
+    {
+      "_id": "6504166ba47588ad6024a6b5",
+      "additional": "",
+      "firstName": "Paula",
+      "lastName": "Crombé-Klein",
+      "fullName": "Paula Crombé-Klein",
+      "role": "Bewegungsregie"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1df",
+      "additional": "",
+      "firstName": "",
+      "lastName": "Die Wiener Sängerknaben",
+      "fullName": " Die Wiener Sängerknaben",
+      "role": "Mitwirkende"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b408",
+      "additional": "",
+      "firstName": "Hugo von",
+      "lastName": "Hofmannsthal",
+      "fullName": "Hugo von Hofmannsthal"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-10.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c35d3ced60fbe22f78b",
+      "uid": "7e0ce73f-2801-43f7-9c78-22c070327b37",
+      "productionId": "7e0ce73f-2801-43f7-9c78-22c070327b37",
+      "title": "Das Salzburger große Welttheater",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neueinstudierung",
+      "count": "6",
+      "date": "1937-05-30T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "König",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Schönheit",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Weisheit",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Reicher",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Bauer",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bettler",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Prophet",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Welt",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Vorwitz",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Tod",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Widersacher",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Engel",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Engel",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Engel",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Engel",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658ff71851cd38b4100c5c9f",
+          "firstName": "Einar",
+          "lastName": "Nilson",
+          "additional": "",
+          "fullName": "Einar Nilson",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024abec",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Lisatz",
+          "fullName": "Rudolf Lisatz",
+          "role": "Technische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b5",
+          "additional": "",
+          "firstName": "Paula",
+          "lastName": "Crombé-Klein",
+          "fullName": "Paula Crombé-Klein",
+          "role": "Bewegungsregie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1df",
+          "additional": "",
+          "firstName": "",
+          "lastName": "Die Wiener Sängerknaben",
+          "fullName": " Die Wiener Sängerknaben",
+          "role": "Mitwirkende"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b408",
+          "additional": "",
+          "firstName": "Hugo von",
+          "lastName": "Hofmannsthal",
+          "fullName": "Hugo von Hofmannsthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0587.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-30.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a55d106af2b0e29fc3b6d8",
+      "uid": "94aa4881-2039-4f63-8ea0-e7018b3ee6ba",
+      "productionId": "7e0ce73f-2801-43f7-9c78-22c070327b37",
+      "title": "Das Salzburger große Welttheater",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "König",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Schönheit",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Weisheit",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Reicher",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Bauer",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bettler",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Prophet",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Welt",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Vorwitz",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Tod",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Widersacher",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Engel",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Engel",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Engel",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Engel",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658ff71851cd38b4100c5c9f",
+          "firstName": "Einar",
+          "lastName": "Nilson",
+          "additional": "",
+          "fullName": "Einar Nilson",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024abec",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Lisatz",
+          "fullName": "Rudolf Lisatz",
+          "role": "Technische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b5",
+          "additional": "",
+          "firstName": "Paula",
+          "lastName": "Crombé-Klein",
+          "fullName": "Paula Crombé-Klein",
+          "role": "Bewegungsregie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1df",
+          "additional": "",
+          "firstName": "",
+          "lastName": "Die Wiener Sängerknaben",
+          "fullName": " Die Wiener Sängerknaben",
+          "role": "Mitwirkende"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b408",
+          "additional": "",
+          "firstName": "Hugo von",
+          "lastName": "Hofmannsthal",
+          "fullName": "Hugo von Hofmannsthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a55d606af2b0e29fc3bd3f",
+      "uid": "b99a1932-659c-4e00-8478-014a719a6acb",
+      "productionId": "7e0ce73f-2801-43f7-9c78-22c070327b37",
+      "title": "Das Salzburger große Welttheater",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-13T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "König",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Schönheit",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Weisheit",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Reicher",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Bauer",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bettler",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Prophet",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Welt",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Vorwitz",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Tod",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Widersacher",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Engel",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Engel",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Engel",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Engel",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658ff71851cd38b4100c5c9f",
+          "firstName": "Einar",
+          "lastName": "Nilson",
+          "additional": "",
+          "fullName": "Einar Nilson",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024abec",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Lisatz",
+          "fullName": "Rudolf Lisatz",
+          "role": "Technische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b5",
+          "additional": "",
+          "firstName": "Paula",
+          "lastName": "Crombé-Klein",
+          "fullName": "Paula Crombé-Klein",
+          "role": "Bewegungsregie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1df",
+          "additional": "",
+          "firstName": "",
+          "lastName": "Die Wiener Sängerknaben",
+          "fullName": " Die Wiener Sängerknaben",
+          "role": "Mitwirkende"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b408",
+          "additional": "",
+          "firstName": "Hugo von",
+          "lastName": "Hofmannsthal",
+          "fullName": "Hugo von Hofmannsthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a60ddc6af2b0e29fd0fc7c",
+      "uid": "4845677f-cb60-4f95-a084-0987462a3eaf",
+      "productionId": "7e0ce73f-2801-43f7-9c78-22c070327b37",
+      "title": "Das Salzburger große Welttheater",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-01T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "König",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Schönheit",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Weisheit",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Reicher",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Bauer",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bettler",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Prophet",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Welt",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Vorwitz",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Tod",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Widersacher",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Engel",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Engel",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Engel",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Engel",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658ff71851cd38b4100c5c9f",
+          "firstName": "Einar",
+          "lastName": "Nilson",
+          "additional": "",
+          "fullName": "Einar Nilson",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024abec",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Lisatz",
+          "fullName": "Rudolf Lisatz",
+          "role": "Technische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b5",
+          "additional": "",
+          "firstName": "Paula",
+          "lastName": "Crombé-Klein",
+          "fullName": "Paula Crombé-Klein",
+          "role": "Bewegungsregie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1df",
+          "additional": "",
+          "firstName": "",
+          "lastName": "Die Wiener Sängerknaben",
+          "fullName": " Die Wiener Sängerknaben",
+          "role": "Mitwirkende"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b408",
+          "additional": "",
+          "firstName": "Hugo von",
+          "lastName": "Hofmannsthal",
+          "fullName": "Hugo von Hofmannsthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a62ddb6af2b0e29fd36718",
+      "uid": "0e5c61fa-b619-4979-9da1-51f283c1c786",
+      "productionId": "7e0ce73f-2801-43f7-9c78-22c070327b37",
+      "title": "Das Salzburger große Welttheater",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-10T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "König",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Schönheit",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Weisheit",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Reicher",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Bauer",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bettler",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Prophet",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Welt",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Vorwitz",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Tod",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Widersacher",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Engel",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Engel",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Engel",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Engel",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658ff71851cd38b4100c5c9f",
+          "firstName": "Einar",
+          "lastName": "Nilson",
+          "additional": "",
+          "fullName": "Einar Nilson",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024abec",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Lisatz",
+          "fullName": "Rudolf Lisatz",
+          "role": "Technische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b5",
+          "additional": "",
+          "firstName": "Paula",
+          "lastName": "Crombé-Klein",
+          "fullName": "Paula Crombé-Klein",
+          "role": "Bewegungsregie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1df",
+          "additional": "",
+          "firstName": "",
+          "lastName": "Die Wiener Sängerknaben",
+          "fullName": " Die Wiener Sängerknaben",
+          "role": "Mitwirkende"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b408",
+          "additional": "",
+          "firstName": "Hugo von",
+          "lastName": "Hofmannsthal",
+          "fullName": "Hugo von Hofmannsthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-10.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63d196af2b0e29fd4a547",
+      "uid": "3a792eb5-6095-4b9b-9362-95ab4cbc5706",
+      "productionId": "7e0ce73f-2801-43f7-9c78-22c070327b37",
+      "title": "Das Salzburger große Welttheater",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-10T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "König",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8e1",
+          "additional": "1901-1949",
+          "firstName": "Nora",
+          "lastName": "Gregor",
+          "role": "Schönheit",
+          "fullName": "Nora Gregor"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Weisheit",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Reicher",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0cc",
+          "additional": "1854-1951",
+          "firstName": "Willy",
+          "lastName": "Thaller",
+          "role": "Bauer",
+          "fullName": "Willy Thaller"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Bettler",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Prophet",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Welt",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a989",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Haeusserman",
+          "role": "Vorwitz",
+          "fullName": "Ernst Haeusserman"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Tod",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Widersacher",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Engel",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac86",
+          "additional": "1913-1953",
+          "firstName": "Maria",
+          "lastName": "Mayen",
+          "role": "Engel",
+          "fullName": "Maria Mayen"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Engel",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Engel",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658ff71851cd38b4100c5c9f",
+          "firstName": "Einar",
+          "lastName": "Nilson",
+          "additional": "",
+          "fullName": "Einar Nilson",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "fullName": "Raoul Aslan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musikalische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024abec",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Lisatz",
+          "fullName": "Rudolf Lisatz",
+          "role": "Technische Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6b5",
+          "additional": "",
+          "firstName": "Paula",
+          "lastName": "Crombé-Klein",
+          "fullName": "Paula Crombé-Klein",
+          "role": "Bewegungsregie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1df",
+          "additional": "",
+          "firstName": "",
+          "lastName": "Die Wiener Sängerknaben",
+          "fullName": " Die Wiener Sängerknaben",
+          "role": "Mitwirkende"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b408",
+          "additional": "",
+          "firstName": "Hugo von",
+          "lastName": "Hofmannsthal",
+          "fullName": "Hugo von Hofmannsthal"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-10.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-10_00000002.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

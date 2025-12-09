@@ -1,0 +1,2278 @@
+{
+  "_id": "66a4d60f6af2b0e29fb8b815",
+  "uid": "1edc052d-3c2a-43e8-b49b-941f93fedbc3",
+  "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+  "title": "Ein Held wider Willen (Trampoli)",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-09-26T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "role": "Tita (Vorspiel)",
+      "fullName": "Hans Wengraf"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Eva (Vorspiel)",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "658f02b451cd38b410089b43",
+      "firstName": "Otto",
+      "lastName": "Storm",
+      "additional": "1874-1950",
+      "role": "Der Hoteldirektor (Vorspiel)",
+      "fullName": "Otto Storm"
+    },
+    {
+      "_id": "658f087c51cd38b410089d5b",
+      "firstName": "Fred",
+      "lastName": "Steinbacher",
+      "additional": "",
+      "role": "Ein Journalist (Vorspiel)",
+      "fullName": "Fred Steinbacher"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Ein Kellner (Vorspiel)",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Vittorio Abate, Buchhalter",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a4ec",
+      "additional": "1874-1980",
+      "firstName": "Rosa",
+      "lastName": "Albach-Retty",
+      "role": "Giuditta, seine Schwester",
+      "fullName": "Rosa Albach-Retty"
+    },
+    {
+      "_id": "6504166ba47588ad6024afcc",
+      "additional": "",
+      "firstName": "Alma",
+      "lastName": "Seidler",
+      "role": "Clara, seine Frau",
+      "fullName": "Alma Seidler"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Oberst Annibale Abate, sein Onkel",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "6504166ba47588ad6024af31",
+      "additional": "Autor, 1891-1963",
+      "firstName": "Wilhelm",
+      "lastName": "Schmidt",
+      "role": "Doktor Bigli, Notar",
+      "fullName": "Wilhelm Schmidt"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab9e",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Leddihn",
+      "role": "Elena, Biglis Nichte",
+      "fullName": "Inge Leddihn"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9cf",
+      "additional": "1893-1945",
+      "firstName": "Hans",
+      "lastName": "Hitzinger",
+      "role": "Der Direktor von Vittorio Abates Firma",
+      "fullName": "Hans Hitzinger"
+    },
+    {
+      "_id": "6504166ba47588ad6024a578",
+      "additional": "Erni",
+      "firstName": "Ernestine",
+      "lastName": "Bauer",
+      "role": "Lucia, Stubenmädchen bei Vittorio Abate",
+      "fullName": "Ernestine Bauer"
+    },
+    {
+      "_id": "658f087c51cd38b410089d5b",
+      "firstName": "Fred",
+      "lastName": "Steinbacher",
+      "additional": "",
+      "role": "1. Photograph",
+      "fullName": "Fred Steinbacher"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f9",
+      "additional": "",
+      "firstName": "Tassilo",
+      "lastName": "Holik",
+      "role": "2. Photograph",
+      "fullName": "Tassilo Holik"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b2dc",
+      "additional": "",
+      "firstName": "Carl",
+      "lastName": "Bosse",
+      "fullName": "Carl Bosse",
+      "role": "Deutsch"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "fullName": "Hans Wengraf",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b844",
+      "additional": "",
+      "firstName": "Sergius",
+      "lastName": "Pugliese",
+      "fullName": "Sergius Pugliese"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000217.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c37d3ced60fbe22fbf2",
+      "uid": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "12",
+      "date": "1937-09-04T12:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Hoteldirektor",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Journalist",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Kellner",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Photographen",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Photographen",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0588.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000194.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4cbe76af2b0e29fb7db2b",
+      "uid": "82879b16-b0cf-472c-9689-bb637a200f96",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Hoteldirektor",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Journalist",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Kellner",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Photographen",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Photographen",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000195.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4cc4a6af2b0e29fb7e470",
+      "uid": "15896776-8068-4311-8fa0-69be5d7f0206",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Hoteldirektor",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Journalist",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Kellner",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Photographen",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Photographen",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000198.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4cc916af2b0e29fb7eb00",
+      "uid": "7dbb1a9a-5eda-4a7b-a7d6-ac6370954a60",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-11T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Hoteldirektor",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Journalist",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Kellner",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Photographen",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Photographen",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000201.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d0716af2b0e29fb83c18",
+      "uid": "8ff48cc7-00d5-4098-afa0-83bf62dd52fc",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-12T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Hoteldirektor",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Journalist",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Kellner",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Photographen",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Photographen",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000202.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d0a36af2b0e29fb84068",
+      "uid": "99fcd281-8677-40bd-b46a-b654f252e1b8",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-15T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Hoteldirektor",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Journalist",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Kellner",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Photographen",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Photographen",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000205.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d0dc6af2b0e29fb845f6",
+      "uid": "d90aae53-9e63-4c0e-85cd-2e62f88e29ed",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-16T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Eva",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Hoteldirektor",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Journalist",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Kellner",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Photographen",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Photographen",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000206.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d4066af2b0e29fb88985",
+      "uid": "7ca38f71-b96a-49b1-93d5-0020967fd81f",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-19T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita (Vorspiel)",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva (Vorspiel)",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Der Hoteldirektor (Vorspiel)",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Ein Journalist (Vorspiel)",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a95e",
+          "additional": "1844-1911",
+          "firstName": "Ernst",
+          "lastName": "Hartmann",
+          "role": "Ein Kellner (Vorspiel)",
+          "fullName": "Ernst Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate, Buchhalter",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta, seine Schwester",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate, sein Onkel",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli, Notar",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena, Biglis Nichte",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia, Stubenmädchen bei Vittorio Abate",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "1. Photograph",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "2. Photograph",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000210.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d5976af2b0e29fb8ad0b",
+      "uid": "1840c5a1-78c0-4e6e-be30-651024988536",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-23T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita (Vorspiel)",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva (Vorspiel)",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Der Hoteldirektor (Vorspiel)",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Ein Journalist (Vorspiel)",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Ein Kellner (Vorspiel)",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate, Buchhalter",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta, seine Schwester",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate, sein Onkel",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli, Notar",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena, Biglis Nichte",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia, Stubenmädchen bei Vittorio Abate",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "1. Photograph",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "2. Photograph",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000214.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d60f6af2b0e29fb8b815",
+      "uid": "1edc052d-3c2a-43e8-b49b-941f93fedbc3",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-26T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita (Vorspiel)",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva (Vorspiel)",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Der Hoteldirektor (Vorspiel)",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Ein Journalist (Vorspiel)",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Ein Kellner (Vorspiel)",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate, Buchhalter",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta, seine Schwester",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Oberst Annibale Abate, sein Onkel",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli, Notar",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena, Biglis Nichte",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia, Stubenmädchen bei Vittorio Abate",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "1. Photograph",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "2. Photograph",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000217.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d61b6af2b0e29fb8b90e",
+      "uid": "279d7acf-d89e-4366-9263-6af4a27592be",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-29T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita (Vorspiel)",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva (Vorspiel)",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Der Hoteldirektor (Vorspiel)",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Ein Journalist (Vorspiel)",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Ein Kellner (Vorspiel)",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate, Buchhalter",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta, seine Schwester",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate, sein Onkel",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli, Notar",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena, Biglis Nichte",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia, Stubenmädchen bei Vittorio Abate",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "1. Photograph",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "2. Photograph",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000221.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4d7ee6af2b0e29fb8e0eb",
+      "uid": "80664447-2a89-468d-89d7-ff5c4e9a0fa7",
+      "productionId": "10e01344-d3cc-4f52-a4c6-a710858ecf41",
+      "title": "Ein Held wider Willen (Trampoli)",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-03T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "role": "Tita (Vorspiel)",
+          "fullName": "Hans Wengraf"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Eva (Vorspiel)",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Der Hoteldirektor (Vorspiel)",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Ein Journalist (Vorspiel)",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Ein Kellner (Vorspiel)",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Vittorio Abate, Buchhalter",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a4ec",
+          "additional": "1874-1980",
+          "firstName": "Rosa",
+          "lastName": "Albach-Retty",
+          "role": "Giuditta, seine Schwester",
+          "fullName": "Rosa Albach-Retty"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Clara, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Oberst Annibale Abate, sein Onkel",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Doktor Bigli, Notar",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Elena, Biglis Nichte",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Der Direktor von Vittorio Abates Firma",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a578",
+          "additional": "Erni",
+          "firstName": "Ernestine",
+          "lastName": "Bauer",
+          "role": "Lucia, Stubenmädchen bei Vittorio Abate",
+          "fullName": "Ernestine Bauer"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "1. Photograph",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "2. Photograph",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b2dc",
+          "additional": "",
+          "firstName": "Carl",
+          "lastName": "Bosse",
+          "fullName": "Carl Bosse",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b844",
+          "additional": "",
+          "firstName": "Sergius",
+          "lastName": "Pugliese",
+          "fullName": "Sergius Pugliese"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000225.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

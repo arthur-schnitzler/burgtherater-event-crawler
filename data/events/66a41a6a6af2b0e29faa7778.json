@@ -1,0 +1,4174 @@
+{
+  "_id": "66a41a6a6af2b0e29faa7778",
+  "uid": "02abcf7a-3cf6-406b-a201-bf557d99fd8d",
+  "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+  "title": "Die andere Germaine",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-06-02T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a9a8",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Hennings",
+      "role": "Etienne Tessier",
+      "fullName": "Fred Hennings"
+    },
+    {
+      "_id": "6504166ba47588ad6024b14c",
+      "additional": "1904-1992",
+      "firstName": "Hilde",
+      "lastName": "Wagener",
+      "role": "Germaine",
+      "fullName": "Hilde Wagener"
+    },
+    {
+      "_id": "658f03ce51cd38b410089bda",
+      "firstName": "Barbara",
+      "lastName": "Uth",
+      "additional": "",
+      "role": "Paulette",
+      "fullName": "Barbara Uth"
+    },
+    {
+      "_id": "6504166ba47588ad6024a778",
+      "additional": "1919-1938, 1945-1981",
+      "firstName": "Karl",
+      "lastName": "Eidlitz",
+      "role": "Dunère",
+      "fullName": "Karl Eidlitz"
+    },
+    {
+      "_id": "6504166ba47588ad6024af31",
+      "additional": "Autor, 1891-1963",
+      "firstName": "Wilhelm",
+      "lastName": "Schmidt",
+      "role": "Philibert Pataud",
+      "fullName": "Wilhelm Schmidt"
+    },
+    {
+      "_id": "658f02b451cd38b410089b43",
+      "firstName": "Otto",
+      "lastName": "Storm",
+      "additional": "1874-1950",
+      "role": "Herr Chabanon",
+      "fullName": "Otto Storm"
+    },
+    {
+      "_id": "6504166ba47588ad6024b1eb",
+      "additional": "1882-1958",
+      "firstName": "Gisela",
+      "lastName": "Wilke",
+      "role": "Frau Chabanon",
+      "fullName": "Gisela Wilke"
+    },
+    {
+      "_id": "6504166ba47588ad6024a990",
+      "additional": "1888-1954",
+      "firstName": "Wilhelm",
+      "lastName": "Heim",
+      "role": "Croquin",
+      "fullName": "Wilhelm Heim"
+    },
+    {
+      "_id": "6504166ba47588ad6024a98a",
+      "additional": "1884-1947",
+      "firstName": "Reinhold",
+      "lastName": "Haeussermann",
+      "role": "Bachelin",
+      "fullName": "Reinhold Haeussermann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Armand von Ségonzac",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "656cd92a00806585023581ab",
+      "firstName": "Auguste",
+      "lastName": "Pünkösdy",
+      "additional": "1890-1967",
+      "role": "Frau Larousse",
+      "fullName": "Auguste Pünkösdy"
+    },
+    {
+      "_id": "658f087c51cd38b410089d5b",
+      "firstName": "Fred",
+      "lastName": "Steinbacher",
+      "additional": "",
+      "role": "Herr Chambelle",
+      "fullName": "Fred Steinbacher"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab9e",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Leddihn",
+      "role": "Frau Chambelle",
+      "fullName": "Inge Leddihn"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Perat",
+      "fullName": "Karl Friedl"
+    },
+    {
+      "_id": "6504166ba47588ad6024a753",
+      "additional": "",
+      "firstName": "Margarethe",
+      "lastName": "Dux",
+      "role": "Valentine",
+      "fullName": "Margarethe Dux"
+    },
+    {
+      "_id": "6504166ba47588ad6024a678",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Burg",
+      "role": "Fräulein",
+      "fullName": "Maria Burg"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Vincent",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f9",
+      "additional": "",
+      "firstName": "Tassilo",
+      "lastName": "Holik",
+      "role": "François",
+      "fullName": "Tassilo Holik"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024a778",
+      "additional": "1919-1938, 1945-1981",
+      "firstName": "Karl",
+      "lastName": "Eidlitz",
+      "fullName": "Karl Eidlitz",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024add3",
+      "additional": "",
+      "firstName": "Emil",
+      "lastName": "Pirchan",
+      "fullName": "Emil Pirchan",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024add3",
+      "additional": "",
+      "firstName": "Emil",
+      "lastName": "Pirchan",
+      "fullName": "Emil Pirchan",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b8ef",
+      "additional": "",
+      "firstName": "Alfred Marcel",
+      "lastName": "Valmy",
+      "fullName": "Alfred Marcel Valmy"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000160.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c36d3ced60fbe22f913",
+      "uid": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "20",
+      "date": "1937-04-24T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Dunère",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0587.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000120.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a404326af2b0e29fa8ad36",
+      "uid": "2cb330f7-945d-4493-b761-17c05193246c",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Dunère",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Larousse",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000122.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4068f6af2b0e29fa8dcad",
+      "uid": "fcdb9abf-52cb-4a10-ba89-e4ec3585ee7b",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Dunère",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000125.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a406e66af2b0e29fa8e3d8",
+      "uid": "ba18e2b5-f4d8-4787-98c8-1cb70444f402",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-30T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Dunère",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000126.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a407426af2b0e29fa8eb36",
+      "uid": "051be23d-b166-4da6-b3c5-7abbf25dd3f8",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-01T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Dunère",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Larousse",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "François",
+          "fullName": "Alois Krischke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000127.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a408786af2b0e29fa90430",
+      "uid": "d56e0d90-a178-4b86-a9a8-d2f46adb0b25",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Dunère",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000129.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a409036af2b0e29fa90f4f",
+      "uid": "b3a85d5b-7eca-40fb-b964-8ded18381ab3",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-03T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Larousse",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "François",
+          "fullName": "Alois Krischke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000130.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a409d06af2b0e29fa91f9f",
+      "uid": "43622121-32b8-4d82-93ea-d205e32508a4",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Larousse",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "François",
+          "fullName": "Alois Krischke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000131.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40acf6af2b0e29fa9342b",
+      "uid": "72553774-e7e1-46fd-8add-aa3a3fd47a5a",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-06T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Frau Chabanon",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Larousse",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000133.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40b276af2b0e29fa93b77",
+      "uid": "004bdebb-7485-4165-a3f2-da0af5572c24",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000134.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40b986af2b0e29fa94475",
+      "uid": "17a51508-6b62-4813-8682-1599b1d06fad",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000135.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40c656af2b0e29fa954ec",
+      "uid": "d4b57de7-237a-4d01-afd4-320d22c42051",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-09T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Dunère",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Frau Chabanon",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Armand von Ségonzac",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000137.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40d1a6af2b0e29fa96337",
+      "uid": "49dac26b-ec71-4c18-ba43-1e14f0c8e920",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-11T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Armand von Ségonzac",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Larousse",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "François",
+          "fullName": "Alois Krischke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000138.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40d856af2b0e29fa96bcc",
+      "uid": "d091477d-23a8-4bcb-b68f-fe39b31e9666",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-12T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Dunère",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Croquin",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Armand von Ségonzac",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vincent",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000139.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40e326af2b0e29fa979ea",
+      "uid": "c01ed65b-5e83-4b49-bf5e-d5c06baa0c87",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Dunère",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Croquin",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Armand von Ségonzac",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Frau Chambelle",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Vincent",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000141.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a410c36af2b0e29fa9ae3f",
+      "uid": "d8187cac-cdc3-4a60-b595-08cfdb40ba06",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Frau Chambelle",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000145.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a411b96af2b0e29fa9c1ae",
+      "uid": "44e3d847-95d4-47bf-9f6f-b55a8962e933",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-18T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Larousse",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Frau Chambelle",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "François",
+          "fullName": "Alois Krischke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000147.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a414f06af2b0e29faa02ad",
+      "uid": "28fe2e86-3116-4d4c-b59d-beebff8dbb56",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-23T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Larousse",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "François",
+          "fullName": "Alois Krischke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000151.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4be096af2b0e29fb6b5b1",
+      "uid": "002c385a-9fc4-45e8-b6cf-732095ece76c",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Dunère",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Armand von Ségonzac",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Frau Larousse",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab57",
+          "additional": "1926-1953",
+          "firstName": "Alois",
+          "lastName": "Krischke",
+          "role": "François",
+          "fullName": "Alois Krischke"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000155.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a41a6a6af2b0e29faa7778",
+      "uid": "02abcf7a-3cf6-406b-a201-bf557d99fd8d",
+      "productionId": "803138ca-ed37-4d93-81a2-abeb51579e09",
+      "title": "Die andere Germaine",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Etienne Tessier",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Germaine",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Paulette",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Dunère",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Philibert Pataud",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Herr Chabanon",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024b1eb",
+          "additional": "1882-1958",
+          "firstName": "Gisela",
+          "lastName": "Wilke",
+          "role": "Frau Chabanon",
+          "fullName": "Gisela Wilke"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Croquin",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Bachelin",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Armand von Ségonzac",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Frau Larousse",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Herr Chambelle",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Frau Chambelle",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Perat",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Valentine",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Fräulein",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Vincent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "François",
+          "fullName": "Tassilo Holik"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "fullName": "Karl Eidlitz",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024add3",
+          "additional": "",
+          "firstName": "Emil",
+          "lastName": "Pirchan",
+          "fullName": "Emil Pirchan",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b8ef",
+          "additional": "",
+          "firstName": "Alfred Marcel",
+          "lastName": "Valmy",
+          "fullName": "Alfred Marcel Valmy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000160.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

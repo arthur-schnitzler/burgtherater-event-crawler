@@ -1,0 +1,909 @@
+{
+  "_id": "66a402716af2b0e29fa889b1",
+  "uid": "833ac553-8c46-4e5d-a299-953cd61dbe52",
+  "productionId": "6bbb1324-9b71-4c60-a373-0cb7efa8b0da",
+  "title": "Die schlimmen Buben in der Schule",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-04-21T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024af31",
+      "additional": "Autor, 1891-1963",
+      "firstName": "Wilhelm",
+      "lastName": "Schmidt",
+      "role": "Baron Wolkenfeld",
+      "fullName": "Wilhelm Schmidt"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Sternau",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Wampel",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa81",
+      "additional": "",
+      "firstName": "Elisabeth",
+      "lastName": "Kallina (verehel. Ortner)",
+      "role": "Nettchen",
+      "fullName": "Elisabeth Kallina (verehel. Ortner)"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9cf",
+      "additional": "1893-1945",
+      "firstName": "Hans",
+      "lastName": "Hitzinger",
+      "role": "Herr von Wichtig",
+      "fullName": "Hans Hitzinger"
+    },
+    {
+      "_id": "6504166ba47588ad6024a753",
+      "additional": "",
+      "firstName": "Margarethe",
+      "lastName": "Dux",
+      "role": "Stanislaus",
+      "fullName": "Margarethe Dux"
+    },
+    {
+      "_id": "6504166ba47588ad6024acad",
+      "additional": "1885-1954",
+      "firstName": "Maria",
+      "lastName": "Mell",
+      "role": "Frau Schnabel",
+      "fullName": "Maria Mell"
+    },
+    {
+      "_id": "6504166ba47588ad6024a786",
+      "additional": "1896-1954",
+      "firstName": "Maria",
+      "lastName": "Eis",
+      "role": "Willibald",
+      "fullName": "Maria Eis"
+    },
+    {
+      "_id": "6504166ba47588ad6024a52b",
+      "additional": "",
+      "firstName": "Edeltraude",
+      "lastName": "Arnoscht",
+      "role": "Peter Petersil",
+      "fullName": "Edeltraude Arnoscht"
+    },
+    {
+      "_id": "6504166ba47588ad6024a6c9",
+      "additional": "",
+      "firstName": "Helga",
+      "lastName": "Czech-Rechtensee",
+      "role": "Anton Waldfuchs",
+      "fullName": "Helga Czech-Rechtensee"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f6",
+      "additional": "",
+      "firstName": "Blanka",
+      "lastName": "Hohenthal",
+      "role": "Sebastian Grob",
+      "fullName": "Blanka Hohenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Christoph Ries",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Franz Rottmann",
+      "fullName": "Otto Hartmann"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b251",
+      "additional": "1896-1977",
+      "firstName": "Philipp",
+      "lastName": "Zeska",
+      "fullName": "Philipp Zeska",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024aac8",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Klingenbeck",
+      "fullName": "Fritz Klingenbeck",
+      "role": "Tanzeinstudierung"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b4d7",
+      "additional": "",
+      "firstName": "Johann",
+      "lastName": "Nestroy",
+      "fullName": "Johann Nestroy"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000118.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c33d3ced60fbe22ee7c",
+      "uid": "6bbb1324-9b71-4c60-a373-0cb7efa8b0da",
+      "productionId": "6bbb1324-9b71-4c60-a373-0cb7efa8b0da",
+      "title": "Die schlimmen Buben in der Schule",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "5",
+      "date": "1937-04-17T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Baron Wolkenfeld",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Sternau",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Wampel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Nettchen",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Herr von Wichtig",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Stanislaus",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Frau Schnabel",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Willibald",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Peter Petersil",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Anton Waldfuchs",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Sebastian Grob",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Christoph Ries",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Franz Rottmann",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4d7",
+          "additional": "",
+          "firstName": "Johann",
+          "lastName": "Nestroy",
+          "fullName": "Johann Nestroy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0586.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000113.jpg"
+      ],
+      "comment": "\"Die schlimmen Buben in der Schule\", dazu \"Wer ist schuldig\" von Grillparzer und das folgende österreichische Singspiel \"Das Versprechen hinterm Herd\" gehörten zum Überthema \"Heitere Spiele von einst\"."
+    },
+    {
+      "_id": "66a401c76af2b0e29fa87bf6",
+      "uid": "ac7aad62-d3b7-40bb-a759-5862dba320e9",
+      "productionId": "6bbb1324-9b71-4c60-a373-0cb7efa8b0da",
+      "title": "Die schlimmen Buben in der Schule",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Baron Wolkenfeld",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Sternau",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Wampel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Nettchen",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Herr von Wichtig",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Stanislaus",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Frau Schnabel",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Willibald",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Peter Petersil",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Anton Waldfuchs",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Sebastian Grob",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Christoph Ries",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Franz Rottmann",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4d7",
+          "additional": "",
+          "firstName": "Johann",
+          "lastName": "Nestroy",
+          "fullName": "Johann Nestroy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000117.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a402716af2b0e29fa889b1",
+      "uid": "833ac553-8c46-4e5d-a299-953cd61dbe52",
+      "productionId": "6bbb1324-9b71-4c60-a373-0cb7efa8b0da",
+      "title": "Die schlimmen Buben in der Schule",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Baron Wolkenfeld",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Sternau",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Wampel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Nettchen",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Herr von Wichtig",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Stanislaus",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Frau Schnabel",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Willibald",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Peter Petersil",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Anton Waldfuchs",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Sebastian Grob",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Christoph Ries",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Franz Rottmann",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4d7",
+          "additional": "",
+          "firstName": "Johann",
+          "lastName": "Nestroy",
+          "fullName": "Johann Nestroy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000118.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a407d76af2b0e29fa8f735",
+      "uid": "69d5aeb2-5928-4845-b237-27d0691697c5",
+      "productionId": "6bbb1324-9b71-4c60-a373-0cb7efa8b0da",
+      "title": "Die schlimmen Buben in der Schule",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Baron Wolkenfeld",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Sternau",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Wampel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Nettchen",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Herr von Wichtig",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Stanislaus",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Frau Schnabel",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Willibald",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Peter Petersil",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Anton Waldfuchs",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Sebastian Grob",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Christoph Ries",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Franz Rottmann",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4d7",
+          "additional": "",
+          "firstName": "Johann",
+          "lastName": "Nestroy",
+          "fullName": "Johann Nestroy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000128.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40f646af2b0e29fa99277",
+      "uid": "91a986c8-5837-442b-8a49-acf51f6b576b",
+      "productionId": "6bbb1324-9b71-4c60-a373-0cb7efa8b0da",
+      "title": "Die schlimmen Buben in der Schule",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Baron Wolkenfeld",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Sternau",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Wampel",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa81",
+          "additional": "",
+          "firstName": "Elisabeth",
+          "lastName": "Kallina (verehel. Ortner)",
+          "role": "Nettchen",
+          "fullName": "Elisabeth Kallina (verehel. Ortner)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Herr von Wichtig",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a753",
+          "additional": "",
+          "firstName": "Margarethe",
+          "lastName": "Dux",
+          "role": "Stanislaus",
+          "fullName": "Margarethe Dux"
+        },
+        {
+          "_id": "6504166ba47588ad6024acad",
+          "additional": "1885-1954",
+          "firstName": "Maria",
+          "lastName": "Mell",
+          "role": "Frau Schnabel",
+          "fullName": "Maria Mell"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Willibald",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Peter Petersil",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Anton Waldfuchs",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Sebastian Grob",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Christoph Ries",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Franz Rottmann",
+          "fullName": "Otto Hartmann"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b251",
+          "additional": "1896-1977",
+          "firstName": "Philipp",
+          "lastName": "Zeska",
+          "fullName": "Philipp Zeska",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aac8",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Klingenbeck",
+          "fullName": "Fritz Klingenbeck",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4d7",
+          "additional": "",
+          "firstName": "Johann",
+          "lastName": "Nestroy",
+          "fullName": "Johann Nestroy"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000143.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

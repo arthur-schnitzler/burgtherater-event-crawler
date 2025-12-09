@@ -1,0 +1,2617 @@
+{
+  "_id": "66a63b776af2b0e29fd4819b",
+  "uid": "d844735e-65fd-4b7b-b6ba-69d210f113af",
+  "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+  "title": "Ein Reiterlied",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-10-07T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b0f5",
+      "additional": "1871-1965",
+      "firstName": "Otto",
+      "lastName": "Tressler",
+      "role": "Prinz Eugen",
+      "fullName": "Otto Tressler"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9a8",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Hennings",
+      "role": "Fürst Imhof-Leuningen",
+      "fullName": "Fred Hennings"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "General Graf Belmonte",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "General von Szil-Szany",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "General von Artheim",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac5d",
+      "additional": "1876-1949",
+      "firstName": "Hans",
+      "lastName": "Marr",
+      "role": "General Graf Waldendorf",
+      "fullName": "Hans Marr"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "General von Kreisstetten",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "658f02b451cd38b410089b43",
+      "firstName": "Otto",
+      "lastName": "Storm",
+      "additional": "1874-1950",
+      "role": "Oberst Chotusitz",
+      "fullName": "Otto Storm"
+    },
+    {
+      "_id": "6504166ba47588ad6024aada",
+      "additional": "",
+      "firstName": "Rudolf",
+      "lastName": "Kleiser",
+      "role": "Freiherr von Steinachturnau",
+      "fullName": "Rudolf Kleiser"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae22",
+      "additional": "1886-1970",
+      "firstName": "Emmerich",
+      "lastName": "Reimers",
+      "role": "Stabstrompeter Höllriegel",
+      "fullName": "Emmerich Reimers"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Mafalda Komtesse Corregiani",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "6504166ba47588ad6024a8a8",
+      "additional": "1893-1952",
+      "firstName": "Blanka",
+      "lastName": "Glossy",
+      "role": "Kammerfrau",
+      "fullName": "Blanka Glossy"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b36",
+      "additional": "1888-1961",
+      "firstName": "Paul",
+      "lastName": "Pranger",
+      "role": "Gesandte des Königs von Frankreich",
+      "fullName": "Paul Pranger"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9cf",
+      "additional": "1893-1945",
+      "firstName": "Hans",
+      "lastName": "Hitzinger",
+      "role": "Gesandte des Königs von Frankreich",
+      "fullName": "Hans Hitzinger"
+    },
+    {
+      "_id": "6504166ba47588ad6024a778",
+      "additional": "1919-1938, 1945-1981",
+      "firstName": "Karl",
+      "lastName": "Eidlitz",
+      "role": "Französischer Offizier",
+      "fullName": "Karl Eidlitz"
+    },
+    {
+      "_id": "6504166ba47588ad6024a621",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Blum",
+      "role": "Geheimsekretär",
+      "fullName": "Fritz Blum"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Ungar",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024a98a",
+      "additional": "1884-1947",
+      "firstName": "Reinhold",
+      "lastName": "Haeussermann",
+      "role": "Gefangener",
+      "fullName": "Reinhold Haeussermann"
+    },
+    {
+      "_id": "658f087c51cd38b410089d5b",
+      "firstName": "Fred",
+      "lastName": "Steinbacher",
+      "additional": "",
+      "role": "Soldat",
+      "fullName": "Fred Steinbacher"
+    },
+    {
+      "_id": "6504166ba47588ad6024a970",
+      "additional": "",
+      "firstName": "Otto",
+      "lastName": "Hartmann",
+      "role": "Neuling",
+      "fullName": "Otto Hartmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f9",
+      "additional": "",
+      "firstName": "Tassilo",
+      "lastName": "Holik",
+      "role": "Kleiner",
+      "fullName": "Tassilo Holik"
+    },
+    {
+      "_id": "6504166ba47588ad6024aada",
+      "additional": "",
+      "firstName": "Rudolf",
+      "lastName": "Kleiser",
+      "role": "Reiter",
+      "fullName": "Rudolf Kleiser"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad67",
+      "additional": "",
+      "firstName": "Armand",
+      "lastName": "Ozory",
+      "role": "Erster Adjudant",
+      "fullName": "Armand Ozory"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad8f",
+      "additional": "1880-1954",
+      "firstName": "Albert",
+      "lastName": "Paulmann",
+      "role": "Zweiter Adjudant",
+      "fullName": "Albert Paulmann"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b20",
+      "additional": "",
+      "firstName": "Edmund",
+      "lastName": "Lindner",
+      "role": "Ordonnanz",
+      "fullName": "Edmund Lindner"
+    },
+    {
+      "_id": "6504166ba47588ad6024a76a",
+      "additional": "1905-1940",
+      "firstName": "Ernst",
+      "lastName": "Eckbauer",
+      "role": "Unteroffizier",
+      "fullName": "Ernst Eckbauer"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024a9c9",
+      "additional": "1877-1966",
+      "firstName": "Hofrat Franz",
+      "lastName": "Herterich",
+      "fullName": "Hofrat Franz Herterich",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b6ce",
+      "additional": "",
+      "firstName": "Josef",
+      "lastName": "Feiks",
+      "fullName": "Josef Feiks"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-07.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c38d3ced60fbe230178",
+      "uid": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "title": "Ein Reiterlied",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "9",
+      "date": "1937-09-30T12:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Prinz Eugen",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Fürst Imhof-Leuningen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "General Graf Belmonte",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "General von Szil-Szany",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "General von Artheim",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "General Graf Waldendorf",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "General von Kreisstetten",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Oberst Chotusitz",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Freiherr von Steinach-Turnau",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Stabstrompeter Höllriegel",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Mafalda Komtesse Corregiani",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Kammerfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Französischer Offizier",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Geheimsekretär",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ungar",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Gefangener",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Soldat",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Neuling",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Kleiner",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Reiter",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Adjudant",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Ordonnanz",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a76a",
+          "additional": "1905-1940",
+          "firstName": "Ernst",
+          "lastName": "Eckbauer",
+          "role": "Unteroffizier",
+          "fullName": "Ernst Eckbauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6ce",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Feiks",
+          "fullName": "Josef Feiks"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0589.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-30.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63a256af2b0e29fd4650f",
+      "uid": "03787a07-9606-48a8-bdd7-aba6e6bf1743",
+      "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "title": "Ein Reiterlied",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-02T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Prinz Eugen",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Fürst Imhof-Leuningen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "General Graf Belmonte",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "General von Szil-Szany",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "General von Artheim",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "General Graf Waldendorf",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "General von Kreisstetten",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Oberst Chotusitz",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Freiherr von Steinach-Turnau",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Stabstrompeter Höllriegel",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Mafalda Komtesse Corregiani",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Kammerfrau Betty",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Französischer Offizier",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Geheimsekretär",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ungar",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Gefangener",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Soldat",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Neuling",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Kleiner",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Reiter",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Adjudanten",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Adjudanten",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Ordonnanz",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a76a",
+          "additional": "1905-1940",
+          "firstName": "Ernst",
+          "lastName": "Eckbauer",
+          "role": "Unteroffizier",
+          "fullName": "Ernst Eckbauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6ce",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Feiks",
+          "fullName": "Josef Feiks"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-02.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63a136af2b0e29fd46329",
+      "uid": "bdf9d1e5-bf72-40b3-ad6b-bc37ef0b6977",
+      "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "title": "Ein Reiterlied",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-04T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Prinz Eugen",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Fürst Imhof-Leuningen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "General Graf Belmonte",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "General von Szil-Szany",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "General von Artheim",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "General Graf Waldendorf",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "General von Kreisstetten",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Oberst Chotusitz",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Freiherr von Steinachturnau",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Stabstrompeter Höllriegel",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Mafalda Komtesse Corregiani",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Kammerfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Französischer Offizier",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Geheimsekretär",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ungar",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Gefangener",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Soldat",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Neuling",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Kleiner",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Reiter",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Adjudant",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Ordonnanz",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a76a",
+          "additional": "1905-1940",
+          "firstName": "Ernst",
+          "lastName": "Eckbauer",
+          "role": "Unteroffizier",
+          "fullName": "Ernst Eckbauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6ce",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Feiks",
+          "fullName": "Josef Feiks"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63a646af2b0e29fd469ed",
+      "uid": "b923e099-35bc-4418-81e9-b6b3a401beb0",
+      "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "title": "Ein Reiterlied",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Prinz Eugen",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Fürst Imhof-Leuningen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "General Graf Belmonte",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "General von Szil-Szany",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "General von Artheim",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "General Graf Waldendorf",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "General von Kreisstetten",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Oberst Chotusitz",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Freiherr von Steinachturnau",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Stabstrompeter Höllriegel",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Mafalda Komtesse Corregiani",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Kammerfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Französischer Offizier",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Geheimsekretär",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ungar",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Gefangener",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Soldat",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Neuling",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Kleiner",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Reiter",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Erster Adjudant",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Zweiter Adjudant",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Ordonnanz",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a76a",
+          "additional": "1905-1940",
+          "firstName": "Ernst",
+          "lastName": "Eckbauer",
+          "role": "Unteroffizier",
+          "fullName": "Ernst Eckbauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6ce",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Feiks",
+          "fullName": "Josef Feiks"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-05.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63b776af2b0e29fd4819b",
+      "uid": "d844735e-65fd-4b7b-b6ba-69d210f113af",
+      "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "title": "Ein Reiterlied",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-07T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Prinz Eugen",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Fürst Imhof-Leuningen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "General Graf Belmonte",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "General von Szil-Szany",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "General von Artheim",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "General Graf Waldendorf",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "General von Kreisstetten",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Oberst Chotusitz",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Freiherr von Steinachturnau",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Stabstrompeter Höllriegel",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Mafalda Komtesse Corregiani",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Kammerfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Französischer Offizier",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Geheimsekretär",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ungar",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Gefangener",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Soldat",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Neuling",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Kleiner",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Reiter",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Erster Adjudant",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Zweiter Adjudant",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Ordonnanz",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a76a",
+          "additional": "1905-1940",
+          "firstName": "Ernst",
+          "lastName": "Eckbauer",
+          "role": "Unteroffizier",
+          "fullName": "Ernst Eckbauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6ce",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Feiks",
+          "fullName": "Josef Feiks"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-07.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63c3f6af2b0e29fd4923a",
+      "uid": "1098c7a4-828a-4595-8a86-0555182b31d1",
+      "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "title": "Ein Reiterlied",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-11T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Prinz Eugen",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Fürst Imhof-Leuningen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "General Graf Belmonte",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "General von Szil-Szany",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "General von Artheim",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "General Graf Waldendorf",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "General von Kreisstetten",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Oberst Chotusitz",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Freiherr von Steinachturnau",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Stabstrompeter Höllriegel",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Mafalda Komtesse Corregiani",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Kammerfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Französischer Offizier",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Geheimsekretär",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ungar",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Gefangener",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Soldat",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Neuling",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Kleiner",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Reiter",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Erster Adjudant",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Zweiter Adjudant",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Ordonnanz",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a76a",
+          "additional": "1905-1940",
+          "firstName": "Ernst",
+          "lastName": "Eckbauer",
+          "role": "Unteroffizier",
+          "fullName": "Ernst Eckbauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6ce",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Feiks",
+          "fullName": "Josef Feiks"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63c806af2b0e29fd49828",
+      "uid": "82f4fa91-98d1-4693-ab0d-800a5131f625",
+      "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "title": "Ein Reiterlied",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-12T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Prinz Eugen",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Fürst Imhof-Leuningen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "General Graf Belmonte",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "General von Szil-Szany",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "General von Artheim",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "General Graf Waldendorf",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "General von Kreisstetten",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Oberst Chotusitz",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Freiherr von Steinachturnau",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Stabstrompeter Höllriegel",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Mafalda Komtesse Corregiani",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Kammerfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Französischer Offizier",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Geheimsekretär",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ungar",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Gefangener",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Soldat",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Neuling",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Kleiner",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Reiter",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Erster Adjudant",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Zweiter Adjudant",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Ordonnanz",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a76a",
+          "additional": "1905-1940",
+          "firstName": "Ernst",
+          "lastName": "Eckbauer",
+          "role": "Unteroffizier",
+          "fullName": "Ernst Eckbauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6ce",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Feiks",
+          "fullName": "Josef Feiks"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-12.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63cc16af2b0e29fd49db6",
+      "uid": "ba78c15f-2687-4878-bd80-44d0cfe2465c",
+      "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "title": "Ein Reiterlied",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-13T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Prinz Eugen",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Fürst Imhof-Leuningen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "General Graf Belmonte",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "General von Szil-Szany",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "General von Artheim",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "General Graf Waldendorf",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "General von Kreisstetten",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Oberst Chotusitz",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Freiherr von Steinachturnau",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Stabstrompeter Höllriegel",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Mafalda Komtesse Corregiani",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Kammerfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Französischer Offizier",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Geheimsekretär",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ungar",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Gefangener",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Soldat",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Neuling",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Kleiner",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Reiter",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Erster Adjudant",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Zweiter Adjudant",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Ordonnanz",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a76a",
+          "additional": "1905-1940",
+          "firstName": "Ernst",
+          "lastName": "Eckbauer",
+          "role": "Unteroffizier",
+          "fullName": "Ernst Eckbauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6ce",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Feiks",
+          "fullName": "Josef Feiks"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63dbc6af2b0e29fd4b3f0",
+      "uid": "dc117615-61f3-4ad8-bd51-67ceaa98ad36",
+      "productionId": "024d5ddb-4b49-423a-ab9a-839929d8bfa4",
+      "title": "Ein Reiterlied",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-18T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Prinz Eugen",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Fürst Imhof-Leuningen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "General Graf Belmonte",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "General von Szil-Szany",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "General von Artheim",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "General Graf Waldendorf",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "General von Kreisstetten",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Oberst Chotusitz",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Freiherr von Steinachturnau",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Stabstrompeter Höllriegel",
+          "fullName": "Emmerich Reimers"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Mafalda Komtesse Corregiani",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Kammerfrau",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Gesandte des Königs von Frankreich",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a778",
+          "additional": "1919-1938, 1945-1981",
+          "firstName": "Karl",
+          "lastName": "Eidlitz",
+          "role": "Französischer Offizier",
+          "fullName": "Karl Eidlitz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Geheimsekretär",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ungar",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Gefangener",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "658f087c51cd38b410089d5b",
+          "firstName": "Fred",
+          "lastName": "Steinbacher",
+          "additional": "",
+          "role": "Soldat",
+          "fullName": "Fred Steinbacher"
+        },
+        {
+          "_id": "6504166ba47588ad6024a970",
+          "additional": "",
+          "firstName": "Otto",
+          "lastName": "Hartmann",
+          "role": "Neuling",
+          "fullName": "Otto Hartmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f9",
+          "additional": "",
+          "firstName": "Tassilo",
+          "lastName": "Holik",
+          "role": "Kleiner",
+          "fullName": "Tassilo Holik"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Reiter",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Erster Adjudant",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Zweiter Adjudant",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b20",
+          "additional": "",
+          "firstName": "Edmund",
+          "lastName": "Lindner",
+          "role": "Ordonnanz",
+          "fullName": "Edmund Lindner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a76a",
+          "additional": "1905-1940",
+          "firstName": "Ernst",
+          "lastName": "Eckbauer",
+          "role": "Unteroffizier",
+          "fullName": "Ernst Eckbauer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b6ce",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Feiks",
+          "fullName": "Josef Feiks"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-18.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

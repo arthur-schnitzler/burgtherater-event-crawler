@@ -1,0 +1,3442 @@
+{
+  "_id": "66a55abd6af2b0e29fc380cb",
+  "uid": "0b24f62e-8dc7-43e5-9fc7-13ad27da798d",
+  "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+  "title": "Die Landgräfin von Thüringen",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-06-04T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b237",
+      "additional": "1901-1970",
+      "firstName": "Heinz",
+      "lastName": "Woester",
+      "role": "Landgraf Ludwig von Thüringen",
+      "fullName": "Heinz Woester"
+    },
+    {
+      "_id": "6504166ba47588ad6024b050",
+      "additional": "1897-1974",
+      "firstName": "Felix",
+      "lastName": "Steinböck",
+      "role": "Graf Heinrich",
+      "fullName": "Felix Steinböck"
+    },
+    {
+      "_id": "6504166ba47588ad6024aad9",
+      "additional": "1937-1940",
+      "firstName": "Josef (Josy)",
+      "lastName": "Kleinpeter",
+      "role": "Graf Hermann",
+      "fullName": "Josef (Josy) Kleinpeter"
+    },
+    {
+      "_id": "6504166ba47588ad6024a568",
+      "additional": "1898-1978",
+      "firstName": "Ewald",
+      "lastName": "Balser",
+      "role": "Meister Konrad von Marburg",
+      "fullName": "Ewald Balser"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9cf",
+      "additional": "1893-1945",
+      "firstName": "Hans",
+      "lastName": "Hitzinger",
+      "role": "Ritter Vargila",
+      "fullName": "Hans Hitzinger"
+    },
+    {
+      "_id": "6504166ba47588ad6024a612",
+      "additional": "1868-1958",
+      "firstName": "Hedwig",
+      "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+      "role": "Landgräfin Sophie",
+      "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+    },
+    {
+      "_id": "6504166ba47588ad6024b211",
+      "additional": "1881-1972",
+      "firstName": "Else",
+      "lastName": "Wohlgemuth",
+      "role": "Landgräfin Elisabeth",
+      "fullName": "Else Wohlgemuth"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Guda",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "6504166ba47588ad6024a678",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Burg",
+      "role": "Isentrud",
+      "fullName": "Maria Burg"
+    },
+    {
+      "_id": "6504166ba47588ad6024b085",
+      "additional": "1868-1938",
+      "firstName": "Fritz",
+      "lastName": "Strassni",
+      "role": "Alter Mann",
+      "fullName": "Fritz Strassni"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63c",
+      "additional": "1899-1971",
+      "firstName": "Viktor",
+      "lastName": "Braun",
+      "role": "Erster Bettler",
+      "fullName": "Viktor Braun"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Zweiter Bettler",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa88",
+      "additional": "1885-1971",
+      "firstName": "Lilly",
+      "lastName": "Karoly",
+      "role": "Bettlerin",
+      "fullName": "Lilly Karoly"
+    },
+    {
+      "_id": "658f014251cd38b410089abe",
+      "firstName": "Inge",
+      "lastName": "Thorsch",
+      "additional": "1936-1938",
+      "role": "Bettelkind",
+      "fullName": "Inge Thorsch"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9a3",
+      "additional": "1937",
+      "firstName": "Kitty",
+      "lastName": "Hen",
+      "role": "Krankes Mädchen",
+      "fullName": "Kitty Hen"
+    },
+    {
+      "_id": "658ff45851cd38b4100c5ac1",
+      "firstName": "Ruth",
+      "lastName": "Ratz",
+      "additional": "1936-1938",
+      "role": "Kranker Knabe",
+      "fullName": "Ruth Ratz"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f6",
+      "additional": "",
+      "firstName": "Blanka",
+      "lastName": "Hohenthal",
+      "role": "Stimme",
+      "fullName": "Blanka Hohenthal"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9af6",
+      "additional": "",
+      "firstName": "Clemens",
+      "lastName": "Holzmeister",
+      "fullName": "Clemens Holzmeister",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9af6",
+      "additional": "",
+      "firstName": "Clemens",
+      "lastName": "Holzmeister",
+      "fullName": "Clemens Holzmeister",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b916",
+      "additional": "",
+      "firstName": "Josef",
+      "lastName": "Wenter",
+      "fullName": "Josef Wenter"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-04.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c35d3ced60fbe22f519",
+      "uid": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "17",
+      "date": "1937-05-12T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0587.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-12.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a552c46af2b0e29fc2cd63",
+      "uid": "bda8a8fe-3d4a-4046-bb05-837d62b3542f",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-14.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a553106af2b0e29fc2d404",
+      "uid": "6de53c99-42cc-4d84-8c59-f02da99a67b8",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-15T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a553586af2b0e29fc2da63",
+      "uid": "43afde32-6309-47bf-b2dd-6784fd9dee9d",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-17T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-17.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5545a6af2b0e29fc2f14e",
+      "uid": "ae9ff465-950f-4fdb-83a9-c5a23826b41f",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-19T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-19.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a554986af2b0e29fc2f737",
+      "uid": "292a78f6-5ee3-438f-98f6-043194f34a58",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-20.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5560b6af2b0e29fc3182d",
+      "uid": "bac3f00e-dba2-4102-bdf4-747decdca386",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-24T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-24.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a557286af2b0e29fc330c3",
+      "uid": "37d2380d-4b84-4245-985e-abad9ad13207",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-27.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a55a0e6af2b0e29fc37125",
+      "uid": "67fe63fb-d189-444e-a0c6-d0b5217bb2d6",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-02.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a55abd6af2b0e29fc380cb",
+      "uid": "0b24f62e-8dc7-43e5-9fc7-13ad27da798d",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-04T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a55df46af2b0e29fc3c8e6",
+      "uid": "96cd8982-3787-4793-bca8-18d075b44433",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-14T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-14.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a615216af2b0e29fd18b24",
+      "uid": "07becd4a-0f1f-4dc0-9bcc-5540e13a05a1",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-07T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a678",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Burg",
+          "role": "Isentrud",
+          "fullName": "Maria Burg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-07.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a62fcb6af2b0e29fd38eeb",
+      "uid": "5de84757-48cd-405c-8482-90eabb1c3fdd",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-13T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Isentrud",
+          "fullName": "Julia Binder"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a76cb06af2b0e29fecc231",
+      "uid": "340a1683-8497-471b-a8a5-932a11e5583b",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-31T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen, Pfalzgraf zu Sachsen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich, sein jüngerer Bruder, nachmaliger Landgraf",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann, Sohn des Landgrafen Ludwig, Kind",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie, Witwe des Landgrafen Hermann, Mutter Ludwigs und Heinrichs",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth, Gemahlin des Landgrafen Ludwig",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda, vertraute Kammerfrau der Landgräfin Elisabeth",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Isentrud, Kammerfrau",
+          "fullName": "Julia Binder"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Eine Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Ein Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a3",
+          "additional": "1937",
+          "firstName": "Kitty",
+          "lastName": "Hen",
+          "role": "Ein krankes Mädchen",
+          "fullName": "Kitty Hen"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Ein kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Eine Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-31.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-31_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682ae684801253dbd5c2ddd",
+      "uid": "18c5ec06-1cf7-499d-82bf-5a659dae8daf",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen, Pfalzgraf zu Sachsen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich, sein Bruder",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann, Sohn des Landgrafen, Kind",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie, Mutter Ludwigs und Heinrichs",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth, Gemahlin des Landgrafen Ludwig",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda, vertraute Kammerfrau der Landgräfin Elisabeth",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Isentrud, Kammerfrau",
+          "fullName": "Julia Binder"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a506",
+          "additional": "",
+          "firstName": "Lisi",
+          "lastName": "Allan",
+          "role": "Krankes Mädchen",
+          "fullName": "Lisi Allan"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000011.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    },
+    {
+      "_id": "6682b53b4801253dbd5cb927",
+      "uid": "21b4e60b-7293-4071-b867-882bb14a0679",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-12T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen, Pfalzgraf zu Sachsen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich, sein Bruder",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann, Sohn des Landgrafen, Kind",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie, Mutter Ludwigs und Heinrichs",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth, Gemahlin des Landgrafen Ludwig",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda, vertraute Kammerfrau der Landgräfin Elisabeth",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Isentrud, Kammerfrau",
+          "fullName": "Julia Binder"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a506",
+          "additional": "",
+          "firstName": "Lisi",
+          "lastName": "Allan",
+          "role": "Krankes Mädchen",
+          "fullName": "Lisi Allan"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000017.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    },
+    {
+      "_id": "6682ca8e4801253dbd5e806b",
+      "uid": "2be688d0-1e89-4ad4-8c31-03ace0584190",
+      "productionId": "37c2c38b-c522-4b8f-b02e-9f7d7e05c0f8",
+      "title": "Die Landgräfin von Thüringen",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-29T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Landgraf Ludwig von Thüringen, Pfalzgraf zu Sachsen",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Graf Heinrich, sein Bruder",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Graf Hermann, Sohn des Landgrafen, Kind",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Meister Konrad von Marburg",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Ritter Vargila",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Landgräfin Sophie, Mutter Ludwigs und Heinrichs",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Landgräfin Elisabeth, Gemahlin des Landgrafen Ludwig",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Guda, vertraute Kammerfrau der Landgräfin Elisabeth",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Isentrud, Kammerfrau",
+          "fullName": "Julia Binder"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Alter Mann",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Erster Bettler",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Zweiter Bettler",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Bettlerin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "658f014251cd38b410089abe",
+          "firstName": "Inge",
+          "lastName": "Thorsch",
+          "additional": "1936-1938",
+          "role": "Bettelkind",
+          "fullName": "Inge Thorsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024a506",
+          "additional": "",
+          "firstName": "Lisi",
+          "lastName": "Allan",
+          "role": "Krankes Mädchen",
+          "fullName": "Lisi Allan"
+        },
+        {
+          "_id": "658ff45851cd38b4100c5ac1",
+          "firstName": "Ruth",
+          "lastName": "Ratz",
+          "additional": "1936-1938",
+          "role": "Kranker Knabe",
+          "fullName": "Ruth Ratz"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Stimme",
+          "fullName": "Blanka Hohenthal"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9af6",
+          "additional": "",
+          "firstName": "Clemens",
+          "lastName": "Holzmeister",
+          "fullName": "Clemens Holzmeister",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b916",
+          "additional": "",
+          "firstName": "Josef",
+          "lastName": "Wenter",
+          "fullName": "Josef Wenter"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000040.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    }
+  ]
+}

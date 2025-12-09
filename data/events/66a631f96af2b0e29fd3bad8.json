@@ -1,0 +1,1674 @@
+{
+  "_id": "66a631f96af2b0e29fd3bad8",
+  "uid": "1e70c9bf-20b0-4304-9924-d1f37aebf899",
+  "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+  "title": "Sappho",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-09-16T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b211",
+      "additional": "1881-1972",
+      "firstName": "Else",
+      "lastName": "Wohlgemuth",
+      "role": "Sappho",
+      "fullName": "Else Wohlgemuth"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Phaon",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024a603",
+      "additional": "1937-1939",
+      "firstName": "Julia",
+      "lastName": "Binder",
+      "role": "Eucharis, Dienerin Sapphos",
+      "fullName": "Julia Binder"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Melitta, Dienerin Sapphos",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b33",
+      "additional": "1881-1970",
+      "firstName": "Ferdinand",
+      "lastName": "Onno",
+      "role": "Rhamnes, Sklave",
+      "fullName": "Ferdinand Onno"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Ein Landmann",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024b085",
+      "additional": "1868-1938",
+      "firstName": "Fritz",
+      "lastName": "Strassni",
+      "role": "Ein Greis",
+      "fullName": "Fritz Strassni"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024aed1",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Salmhofer",
+      "fullName": "Franz Salmhofer",
+      "role": "Musik"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa5b",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Judtmann",
+      "fullName": "Fritz Judtmann",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa5b",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Judtmann",
+      "fullName": "Fritz Judtmann",
+      "role": "Kostümbildner"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b3c9",
+      "additional": "",
+      "firstName": "Franz",
+      "lastName": "Grillparzer",
+      "fullName": "Franz Grillparzer"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-16.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c22d3ced60fbe22ab62",
+      "uid": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "14",
+      "date": "1936-01-28T12:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0577.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-01-28.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a276c36af2b0e29f898906",
+      "uid": "9076534a-9c27-48d2-931d-1da3d71b2086",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-24T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-24.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a276e26af2b0e29f898c1c",
+      "uid": "03f876ec-517a-41af-8e91-744474eaa858",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-02-25T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-02-25.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2ac4a6af2b0e29f8dbe04",
+      "uid": "75300fad-0d10-47c0-a81c-f140c5d027f5",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-03-06T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Ein Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2ae626af2b0e29f8de95e",
+      "uid": "ab4e3b83-ed38-454d-b470-3be88c9f6cf5",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-03-11T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Ein Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-11.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-11_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2af0b6af2b0e29f8df74c",
+      "uid": "b109bd5b-81ad-4ab3-817b-30aea59cbfa5",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-03-13T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Ein Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2b0f96af2b0e29f8e21c4",
+      "uid": "5510aecb-a3c6-4564-a748-0a7042ddae47",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-03-21T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Ein Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-21.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-21_00000002.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-21_00000003.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2b31b6af2b0e29f8e4d8a",
+      "uid": "7e38257f-b68f-489a-b5e3-8c3c6483ad67",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-03-25T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Ein Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-03-25.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2b9466af2b0e29f8ec7c1",
+      "uid": "b308f7ec-70fd-4f95-8e5b-a18e8ffd574f",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-04-01T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Ein Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-04-01.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-04-01_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a2cdf36af2b0e29f906aca",
+      "uid": "a5bf66c3-e147-4518-a72d-6b10bcefc609",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-04-23T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Ein Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-04-23.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a36afb6af2b0e29f9c5e7c",
+      "uid": "6b019501-2d8e-438d-a115-8d041d257008",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-04-29T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Ein Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-04-29.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a36d896af2b0e29f9c94c3",
+      "uid": "ba827a86-02cb-48f2-9ad6-e8804b16324b",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-05-10T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "658f03ce51cd38b410089bda",
+          "firstName": "Barbara",
+          "lastName": "Uth",
+          "additional": "",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Barbara Uth"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Ein Landmann",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-05-10.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-05-10_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a631f96af2b0e29fd3bad8",
+      "uid": "1e70c9bf-20b0-4304-9924-d1f37aebf899",
+      "productionId": "843d07a5-beff-465f-a4c5-b020a7e80c7a",
+      "title": "Sappho",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-16T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b211",
+          "additional": "1881-1972",
+          "firstName": "Else",
+          "lastName": "Wohlgemuth",
+          "role": "Sappho",
+          "fullName": "Else Wohlgemuth"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Phaon",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Eucharis, Dienerin Sapphos",
+          "fullName": "Julia Binder"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Melitta, Dienerin Sapphos",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Rhamnes, Sklave",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Ein Landmann",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Ein Greis",
+          "fullName": "Fritz Strassni"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024aed1",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Salmhofer",
+          "fullName": "Franz Salmhofer",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa5b",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Judtmann",
+          "fullName": "Fritz Judtmann",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3c9",
+          "additional": "",
+          "firstName": "Franz",
+          "lastName": "Grillparzer",
+          "fullName": "Franz Grillparzer"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-16.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

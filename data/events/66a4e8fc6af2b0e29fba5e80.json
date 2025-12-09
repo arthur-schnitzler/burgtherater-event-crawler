@@ -1,0 +1,4287 @@
+{
+  "_id": "66a4e8fc6af2b0e29fba5e80",
+  "uid": "7148d98d-776d-4929-b4e6-5025eebcd1a8",
+  "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+  "title": "Delila",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-12-13T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "role": "Virág",
+      "fullName": "Raoul Aslan"
+    },
+    {
+      "_id": "6504166ba47588ad6024afcc",
+      "additional": "",
+      "firstName": "Alma",
+      "lastName": "Seidler",
+      "role": "Marianne, seine Frau",
+      "fullName": "Alma Seidler"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Ilonka",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Berényi",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Schankbursche",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "658f02b451cd38b410089b43",
+      "firstName": "Otto",
+      "lastName": "Storm",
+      "additional": "1874-1950",
+      "role": "Rechtsanwalt",
+      "fullName": "Otto Storm"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63c",
+      "additional": "1899-1971",
+      "firstName": "Viktor",
+      "lastName": "Braun",
+      "role": "Häuseragent",
+      "fullName": "Viktor Braun"
+    },
+    {
+      "_id": "6504166ba47588ad6024a7b1",
+      "additional": "1931-1972, danach als Gast ",
+      "firstName": "Richard",
+      "lastName": "Eybner",
+      "role": "Autoagent",
+      "fullName": "Richard Eybner"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad67",
+      "additional": "",
+      "firstName": "Armand",
+      "lastName": "Ozory",
+      "role": "Kellner",
+      "fullName": "Armand Ozory"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b16a",
+      "additional": "Regie, Bühne",
+      "firstName": "Herbert",
+      "lastName": "Waniek",
+      "fullName": "Herbert Waniek",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b4c9",
+      "additional": "Franz",
+      "firstName": "Ferenc",
+      "lastName": "Molnár",
+      "fullName": "Ferenc Molnár"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000305.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c3dd3ced60fbe23133d",
+      "uid": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "35",
+      "date": "1937-12-01T12:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0591.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000292.jpg"
+      ],
+      "comment": "Von den 35 Aufführungen fanden 3 im Burgtheater statt."
+    },
+    {
+      "_id": "66a4e4436af2b0e29fb9f8d8",
+      "uid": "40a2e0fc-5291-4266-9af3-25e55d3c5d0f",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-02T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000293.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e55d6af2b0e29fba10ad",
+      "uid": "547878f3-374d-4a38-929f-187b6af21197",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000296.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e5826af2b0e29fba1395",
+      "uid": "c19fe0e6-b1b6-431a-9acc-05619a4d7b8a",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-07T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000297.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e7306af2b0e29fba3828",
+      "uid": "37464d45-a4d5-4216-8497-9a7b62417e49",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-09T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000300.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e79f6af2b0e29fba4191",
+      "uid": "0eedadba-b8d1-4652-b00f-43c1c914b8ab",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-11T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000302.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e8fc6af2b0e29fba5e80",
+      "uid": "7148d98d-776d-4929-b4e6-5025eebcd1a8",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-13T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000305.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e9816af2b0e29fba698b",
+      "uid": "e891915c-ef9a-4af8-bb9c-876a0645be9f",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-15T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000307.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4e9b26af2b0e29fba6dcc",
+      "uid": "4b278deb-0e1b-4831-a14a-c02a820d18cd",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-16T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000308.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4eb156af2b0e29fba8b0c",
+      "uid": "866392fd-e72b-4ed8-880f-c0e65102f432",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-19T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000311.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4ebb56af2b0e29fba9945",
+      "uid": "76b3ba66-a081-4ad5-a3f7-9d7305f5220d",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-22T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000313.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4ebe66af2b0e29fba9d4e",
+      "uid": "ff357bf4-f4b7-4cf8-adbd-9d7c30d18ae7",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-23T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Rechtsanwalt",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000314.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4ecb06af2b0e29fbaae49",
+      "uid": "df46902d-25ea-4fd4-9548-6229271fbd9d",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-25T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Berényi",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000316.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4ed4e6af2b0e29fbabba7",
+      "uid": "5d5c2246-3fb3-473c-aa44-57dcf52ca090",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-26T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Rechtsanwalt",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000318.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4ee0a6af2b0e29fbacb3e",
+      "uid": "61b4147a-d5a7-4c36-982f-345d771b2669",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-28T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000320.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4ee386af2b0e29fbacf28",
+      "uid": "37e84251-2c65-4fc0-80de-a27e18c3405e",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-29T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000321.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6a9b96af2b0e29fdd4637",
+      "uid": "b65dadb2-39ec-4e95-8c1c-2f27688f18c4",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-31T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Berényi",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-31.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682a4704801253dbd5b5f34",
+      "uid": "767fd2a3-d54f-40ac-abff-8c49e1fc364d",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-01T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Berényi",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e6503cd334071f77c6437",
+      "uid": "ea8c0215-abcd-4786-82e3-7274fcc7fc88",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-02T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Rechtsanwalt",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000004.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e65fccd334071f77c7827",
+      "uid": "49e11c38-7ec0-4528-b17a-71422317997b",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-03T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000005.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e66e2cd334071f77c9ca8",
+      "uid": "5de28769-5d13-45be-ac17-7552fc736b68",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Rechtsanwalt",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000007.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e69c9cd334071f77cdd09",
+      "uid": "7fb48a6d-11c7-4bf1-8e86-6fb2c295c9e2",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Berényi",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000011.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e6aeccd334071f77cf8e9",
+      "uid": "7a8d6b16-7cfd-4f44-95f5-12c2a2683da3",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-09T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Rechtsanwalt",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000013.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e6b18cd334071f77cfcef",
+      "uid": "f6b62735-680c-4378-99a0-a806bafd3a54",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-11T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000014.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e6c21cd334071f77d14bd",
+      "uid": "66f1d121-b380-4277-bee2-5e6ea2adab3e",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-14T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000017.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e6cf5cd334071f77d2877",
+      "uid": "df084c68-0a40-4e15-943b-f0ac8110fec5",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-16T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Rechtsanwalt",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000020.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e6dd9cd334071f77d3f1f",
+      "uid": "16ad3d0d-fc03-4491-b3f2-fb8b317dcf0c",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-20T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Rechtsanwalt",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000024.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682ca554801253dbd5e7b94",
+      "uid": "87e4b540-9465-461b-a21d-ab57587fa688",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-29T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Berényi",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000039.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "667e71fdcd334071f77da122",
+      "uid": "220d6600-5c06-4c27-8636-722650f5a871",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-31T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Rechtsanwalt",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000036.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668263654801253dbd55e214",
+      "uid": "2957db8f-4f27-41b6-b497-5fbe01835d75",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-02-02T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000038.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682643d4801253dbd55f4e6",
+      "uid": "61d9ec18-451a-4d93-93d1-25bb882cc3a1",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-02-06T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000041.jpg"
+      ],
+      "comment": "Nachmittags 4 Uhr"
+    },
+    {
+      "_id": "668265744801253dbd560f8b",
+      "uid": "735c09c1-b421-4cd8-8608-acbc582700c8",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-02-10T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000045.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668268304801253dbd564807",
+      "uid": "6635fafa-9c2d-463c-bbc1-74f2ff907e15",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-02-13T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Berényi",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000049.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668269ec4801253dbd566dbb",
+      "uid": "c9072daf-911a-419b-9e49-a61e2f911d25",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-02-18T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Rechtsanwalt",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000054.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668271094801253dbd570d90",
+      "uid": "16404a66-d11f-4053-ba0e-5809d8ac7ab7",
+      "productionId": "db2b4563-42cf-4ad7-a63c-eb57187ff380",
+      "title": "Delila",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-03-06T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Virág",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "6504166ba47588ad6024afcc",
+          "additional": "",
+          "firstName": "Alma",
+          "lastName": "Seidler",
+          "role": "Marianne, seine Frau",
+          "fullName": "Alma Seidler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Ilonka",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Berényi",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Schankbursche",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "658f02b451cd38b410089b43",
+          "firstName": "Otto",
+          "lastName": "Storm",
+          "additional": "1874-1950",
+          "role": "Rechtsanwalt",
+          "fullName": "Otto Storm"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Häuseragent",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Autoagent",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Kellner",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b16a",
+          "additional": "Regie, Bühne",
+          "firstName": "Herbert",
+          "lastName": "Waniek",
+          "fullName": "Herbert Waniek",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b4c9",
+          "additional": "Franz",
+          "firstName": "Ferenc",
+          "lastName": "Molnár",
+          "fullName": "Ferenc Molnár"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1938/00000069.jpg"
+      ],
+      "comment": "Nachmittags 4 Uhr"
+    }
+  ]
+}

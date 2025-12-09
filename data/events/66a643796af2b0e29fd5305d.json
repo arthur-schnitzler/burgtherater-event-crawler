@@ -1,0 +1,2919 @@
+{
+  "_id": "66a643796af2b0e29fd5305d",
+  "uid": "991b7cfb-b254-4241-adc7-eaf2a67c2e49",
+  "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+  "title": "Bengalische Zukunft",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-12-02T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ac5d",
+      "additional": "1876-1949",
+      "firstName": "Hans",
+      "lastName": "Marr",
+      "role": "Lord Fitzroy",
+      "fullName": "Hans Marr"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9cf",
+      "additional": "1893-1945",
+      "firstName": "Hans",
+      "lastName": "Hitzinger",
+      "role": "Lord North",
+      "fullName": "Hans Hitzinger"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0f5",
+      "additional": "1871-1965",
+      "firstName": "Otto",
+      "lastName": "Tressler",
+      "role": "Lord William Pitt",
+      "fullName": "Otto Tressler"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9a8",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Hennings",
+      "role": "Lord Clive",
+      "fullName": "Fred Hennings"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Lord Waterford",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Sir Richard Blunt",
+      "fullName": "Karl Friedl"
+    },
+    {
+      "_id": "6504166ba47588ad6024a5e4",
+      "additional": "1897-1959",
+      "firstName": "Ulrich",
+      "lastName": "Bettac",
+      "role": "Sir Philipp Francis",
+      "fullName": "Ulrich Bettac"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab35",
+      "additional": "1905-1963",
+      "firstName": "Helmuth",
+      "lastName": "Krauss",
+      "role": "Summer",
+      "fullName": "Helmuth Krauss"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Sir Eduard Sulivan",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a612",
+      "additional": "1868-1958",
+      "firstName": "Hedwig",
+      "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+      "role": "Lady Leocadia",
+      "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac3c",
+      "additional": "1876-1962",
+      "firstName": "Lili",
+      "lastName": "Marberg",
+      "role": "Lady Fitzroy",
+      "fullName": "Lili Marberg"
+    },
+    {
+      "_id": "6504166ba47588ad6024b14c",
+      "additional": "1904-1992",
+      "firstName": "Hilde",
+      "lastName": "Wagener",
+      "role": "Junia Fitzroy",
+      "fullName": "Hilde Wagener"
+    },
+    {
+      "_id": "6504166ba47588ad6024b069",
+      "additional": "",
+      "firstName": "Lilly",
+      "lastName": "Stepanek",
+      "role": "Ellen Sackville",
+      "fullName": "Lilly Stepanek"
+    },
+    {
+      "_id": "6504166ba47588ad6024a990",
+      "additional": "1888-1954",
+      "firstName": "Wilhelm",
+      "lastName": "Heim",
+      "role": "Swinney",
+      "fullName": "Wilhelm Heim"
+    },
+    {
+      "_id": "6504166ba47588ad6024aada",
+      "additional": "",
+      "firstName": "Rudolf",
+      "lastName": "Kleiser",
+      "role": "Thomas",
+      "fullName": "Rudolf Kleiser"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024ae8d",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Rosenthal",
+      "fullName": "Friedrich Rosenthal",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a89c",
+      "additional": "1878-1974",
+      "firstName": "Prof. Remigius",
+      "lastName": "Geyling",
+      "fullName": "Prof. Remigius Geyling",
+      "role": "Kostümbildner"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b3a8",
+      "additional": "",
+      "firstName": "Michael",
+      "lastName": "Gesell",
+      "fullName": "Michael Gesell"
+    },
+    {
+      "_id": "6504166ba47588ad6024b4b1",
+      "additional": "",
+      "firstName": "Ernst",
+      "lastName": "Martin",
+      "fullName": "Ernst Martin"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-02.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c3bd3ced60fbe230e04",
+      "uid": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "15",
+      "date": "1937-11-27T12:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0591.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-27.jpg"
+      ],
+      "comment": "Nach einer Idee Laubes."
+    },
+    {
+      "_id": "66a7301e6af2b0e29fe77e2b",
+      "uid": "6e314471-1b9b-4290-8208-abae4702c9bd",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-28T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-28.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-28_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a643796af2b0e29fd5305d",
+      "uid": "991b7cfb-b254-4241-adc7-eaf2a67c2e49",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-02T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-02.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6439f6af2b0e29fd533e2",
+      "uid": "199079a8-ba5e-444f-8cc2-54417c3f9897",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-03T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-03.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a731c96af2b0e29fe7a09f",
+      "uid": "c0fc3658-827e-439d-b6ab-d411d302ae9d",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-04T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Richard Blunt",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Philipp Francis",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-04.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-04_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6a79f6af2b0e29fdd15b7",
+      "uid": "eef01b76-e9a1-405e-885c-53b828fef43c",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-05T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia, Herzoginwitwe",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Fitzroy, ihr Sohn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy, ihre Schwiegertochter",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy, deren Tochter",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Henry Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-05.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-05_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a643eb6af2b0e29fd53a26",
+      "uid": "bd6ed0e2-fa26-40e9-852e-4ac19a3f1cee",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-06T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-06.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6ac086af2b0e29fdd813e",
+      "uid": "feb2ab86-7a1f-4671-874d-a77b88d72fc0",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-09T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Augustus Henry Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Diana Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord John Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Robert Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord Henry North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Henry Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-09.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6acb76af2b0e29fdd91e5",
+      "uid": "8cc09b29-077d-4506-99e7-6d9b704621ed",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-10T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Augustus Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Diana Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord John Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Robert Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord Henry North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Henry Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-10.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6b4956af2b0e29fde422c",
+      "uid": "64fe1a94-8d60-455a-ad31-16f576ba9699",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-15T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Henry Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-15.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-15_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a738316af2b0e29fe824f3",
+      "uid": "c99e37c8-38b6-4cb8-985b-4fc3654dd055",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-28T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Lord Fitzroy",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord Waterford",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Clive",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord North",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Henry Summer",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-28.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682a7004801253dbd5b95bf",
+      "uid": "0214bc07-63e4-48b3-ab72-9c986d3cd9ec",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-03T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia, Herzoginwitwe von Graston",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Herzog von Graston, ihr Sohn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy, ihre Schwiegertochter",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy, deren Tochter",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt, Graf von Chatham",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord John Waterford, Lady Dianas Bruder",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Robert Clive, Baron von Plassen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan, Direktor der Ostindischen Compagnie",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord Henry North, Kabinettsminister",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville, Gesellschafterin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Henry Summer, Sekretär Sir Philipps",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney, Agent",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas, Diener",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000005.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682b4f34801253dbd5cb2ff",
+      "uid": "8c356c49-e238-4909-93ef-14c3cca2f5b8",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-11T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia, Herzoginwitwe von Graston",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Herzog von Graston, ihr Sohn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy, ihre Schwiegertochter",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy, deren Tochter",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt, Graf von Chatham",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord John Waterford, Lady Dianas Bruder",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Robert Clive, Baron von Plassen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan, Direktor der Ostindischen Compagnie",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord Henry North, Kabinettsminister",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville, Gesellschafterin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Henry Summer, Sekretär Sir Philipps",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney, Agent",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas, Diener",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000016.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682c6944801253dbd5e2a30",
+      "uid": "ff02859f-382e-454f-94b0-151374630d80",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-24T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia, Herzoginwitwe von Graston",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Herzog von Graston, ihr Sohn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy, ihre Schwiegertochter",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy, deren Tochter",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt, Graf von Chatham",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord John Waterford, Lady Dianas Bruder",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Robert Clive, Baron von Plassen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan, Direktor der Ostindischen Compagnie",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord Henry North, Kabinettsminister",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville, Gesellschafterin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Henry Summer, Sekretär Sir Philipps",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney, Agent",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas, Diener",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000033.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "668415074801253dbd789dc8",
+      "uid": "56bc2165-dbda-45a4-91da-df0465c0ea3d",
+      "productionId": "8f4930d8-1db1-4684-b1aa-5b3cd06e02d6",
+      "title": "Bengalische Zukunft",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-06-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Lady Leocadia, Herzoginwitwe von Graston",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Herzog von Graston, ihr Sohn",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac3c",
+          "additional": "1876-1962",
+          "firstName": "Lili",
+          "lastName": "Marberg",
+          "role": "Lady Fitzroy, ihre Schwiegertochter",
+          "fullName": "Lili Marberg"
+        },
+        {
+          "_id": "6504166ba47588ad6024b14c",
+          "additional": "1904-1992",
+          "firstName": "Hilde",
+          "lastName": "Wagener",
+          "role": "Junia Fitzroy, deren Tochter",
+          "fullName": "Hilde Wagener"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Lord William Pitt, Graf von Chatham",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Lord John Waterford, Lady Dianas Bruder",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024a5e4",
+          "additional": "1897-1959",
+          "firstName": "Ulrich",
+          "lastName": "Bettac",
+          "role": "Sir Philipp Francis",
+          "fullName": "Ulrich Bettac"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Sir Richard Blunt",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Lord Robert Clive, Baron von Plassen",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Sir Eduard Sulivan, Direktor der Ostindischen Compagnie",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Lord Henry North, Kabinettsminister",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024b069",
+          "additional": "",
+          "firstName": "Lilly",
+          "lastName": "Stepanek",
+          "role": "Ellen Sackville, Gesellschafterin",
+          "fullName": "Lilly Stepanek"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Henry Summer, Sekretär Sir Philipps",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Swinney, Agent",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Thomas, Diener",
+          "fullName": "Rudolf Kleiser"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024ae8d",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Rosenthal",
+          "fullName": "Friedrich Rosenthal",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a89c",
+          "additional": "1878-1974",
+          "firstName": "Prof. Remigius",
+          "lastName": "Geyling",
+          "fullName": "Prof. Remigius Geyling",
+          "role": "Kostümbildner"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3a8",
+          "additional": "",
+          "firstName": "Michael",
+          "lastName": "Gesell",
+          "fullName": "Michael Gesell"
+        },
+        {
+          "_id": "6504166ba47588ad6024b4b1",
+          "additional": "",
+          "firstName": "Ernst",
+          "lastName": "Martin",
+          "fullName": "Ernst Martin"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000191.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

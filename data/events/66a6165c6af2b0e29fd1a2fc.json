@@ -1,0 +1,4022 @@
+{
+  "_id": "66a6165c6af2b0e29fd1a2fc",
+  "uid": "0ad5d4d3-4f21-474f-8528-7d9418f68403",
+  "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+  "title": "Donna Diana",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-09-08T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ac5d",
+      "additional": "1876-1949",
+      "firstName": "Hans",
+      "lastName": "Marr",
+      "role": "Don Diego",
+      "fullName": "Hans Marr"
+    },
+    {
+      "_id": "6504166ba47588ad6024a786",
+      "additional": "1896-1954",
+      "firstName": "Maria",
+      "lastName": "Eis",
+      "role": "Donna Diana",
+      "fullName": "Maria Eis"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad65",
+      "additional": "1928-1953",
+      "firstName": "Elisabeth",
+      "lastName": "Ortner-Kallina (Kallina)",
+      "role": "Donna Laura",
+      "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+    },
+    {
+      "_id": "6504166ba47588ad6024a71e",
+      "additional": "1938-1952",
+      "firstName": "Sylvia",
+      "lastName": "Devez (verehel. Waniek)",
+      "role": "Donna Fenisa",
+      "fullName": "Sylvia Devez (verehel. Waniek)"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Don Cesar",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Don Louis",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024b050",
+      "additional": "1897-1974",
+      "firstName": "Felix",
+      "lastName": "Steinböck",
+      "role": "Don Gaston",
+      "fullName": "Felix Steinböck"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0df",
+      "additional": "",
+      "firstName": "Hermann",
+      "lastName": "Thimig",
+      "role": "Perin",
+      "fullName": "Hermann Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Floretta",
+      "fullName": "Maria Kramer"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b5c9",
+      "additional": "Pseud. von J. Schreyvogel",
+      "firstName": "Carl August",
+      "lastName": "West",
+      "fullName": "Carl August West",
+      "role": "Deutsch"
+    },
+    {
+      "_id": "6504166ba47588ad6024b05e",
+      "additional": "Bearb., Autor",
+      "firstName": "Alexander",
+      "lastName": "Steinbrecher",
+      "fullName": "Alexander Steinbrecher",
+      "role": "Musik"
+    },
+    {
+      "_id": "658dbef351cd38b410f55fdb",
+      "firstName": "Hermann",
+      "lastName": "Röbbeling",
+      "additional": "",
+      "fullName": "Hermann Röbbeling",
+      "role": "Bühneneinrichtung"
+    },
+    {
+      "_id": "658dbef351cd38b410f55fdb",
+      "firstName": "Hermann",
+      "lastName": "Röbbeling",
+      "additional": "",
+      "fullName": "Hermann Röbbeling",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa62",
+      "additional": "",
+      "firstName": "Stella",
+      "lastName": "Junker",
+      "fullName": "Stella Junker",
+      "role": "Kostüme"
+    },
+    {
+      "_id": "6504166ba47588ad6024b164",
+      "additional": "",
+      "firstName": "Margarete",
+      "lastName": "Wallmann",
+      "fullName": "Margarete Wallmann",
+      "role": "Tanzeinstudierung"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b806",
+      "additional": "",
+      "firstName": "y Cabana Agustin",
+      "lastName": "Moreto",
+      "fullName": "y Cabana Agustin Moreto"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-08.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c37d3ced60fbe22feac",
+      "uid": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "24",
+      "date": "1937-06-18T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0588.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-18.jpg"
+      ],
+      "comment": "Die darin vorkommenden Tänze wurden ausgeführt von Julia Drapal und Leopoldine Pokorny sowie Mitgliedern des Staatsopernballets."
+    },
+    {
+      "_id": "66a60b826af2b0e29fd0cec3",
+      "uid": "4edfba35-00e1-4005-bef8-09e035ae8f89",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-19T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-19.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-19_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a55fa46af2b0e29fc3eb6a",
+      "uid": "4bc18fe8-376d-42eb-b846-89c42c1b0fac",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-20.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a60c366af2b0e29fd0dc74",
+      "uid": "42248dce-8bf4-496d-8a15-edb3e04b2ee8",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-21.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a601176af2b0e29fcffe6a",
+      "uid": "54b65e11-a5d2-4bdd-8d54-c0fe0d0efb92",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-22T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-22.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a601466af2b0e29fd00255",
+      "uid": "6ee1fc82-cd22-44b7-8c15-4c7e79034eb4",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-23T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-23.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a601df6af2b0e29fd00f3a",
+      "uid": "cac19352-73d2-4155-ada9-ad9970202f15",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-25.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6020d6af2b0e29fd01331",
+      "uid": "e9a21ed3-cb97-470e-96d9-ccf8d17c5beb",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-26T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-26.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a602316af2b0e29fd016b8",
+      "uid": "67be3785-1d44-49ba-9c97-d82b28917f8a",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-27T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-27.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6028c6af2b0e29fd01e26",
+      "uid": "53492421-853e-4e6a-9b1f-3fbd0dc8030f",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-28.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a602b16af2b0e29fd02115",
+      "uid": "4ffc8065-e880-4802-9652-041a7e5468fd",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-29T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-29.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a60efe6af2b0e29fd112a4",
+      "uid": "6ed98ce0-429d-4886-a126-f5e2580a96a0",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-02T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-02.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a611376af2b0e29fd13e14",
+      "uid": "b177e242-9dd7-4e47-893b-25bc8234d9fc",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-04T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6165c6af2b0e29fd1a2fc",
+      "uid": "0ad5d4d3-4f21-474f-8528-7d9418f68403",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-08.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a619026af2b0e29fd1d5fd",
+      "uid": "4b1944cc-e9e5-48a7-ada9-2dda16c4a10e",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-09T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-09.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a62eca6af2b0e29fd37a69",
+      "uid": "3e2933ee-1f83-4320-8944-216a5519df70",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-12T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musikalische Leitung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-12.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a632b36af2b0e29fd3ca1f",
+      "uid": "c605749a-f27a-479c-b841-c9985a4fd370",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-18T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musikalische Leitung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a635af6af2b0e29fd40860",
+      "uid": "5661294f-cf99-41cd-a81f-a5861bf72971",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-25T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-25.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a637016af2b0e29fd4241e",
+      "uid": "6ac14b24-b7c2-4f49-88b4-9a37a65cadc7",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-09-29T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Floretta",
+          "fullName": "Lisa Thenen"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-09-29.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63b036af2b0e29fd47764",
+      "uid": "f7b8af68-a7df-46b2-97e1-4539f698eb3e",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-03T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Floretta",
+          "fullName": "Lisa Thenen"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-03.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-03_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a63d556af2b0e29fd4aac8",
+      "uid": "c48835b2-4cc8-4c77-aa09-f824d6862983",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-15T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a76a356af2b0e29fec8b93",
+      "uid": "fafa63ee-eeb6-47e2-a4b7-b10d2fe2415b",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-10-24T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego, souveräner Graf von Barcelona",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana, Erbprinzessin, seine Tochter",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura, seine Nichte",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa, seine Nichte",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar, Prinz von Urgel",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis, Prinz von Bearne",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab35",
+          "additional": "1905-1963",
+          "firstName": "Helmuth",
+          "lastName": "Krauss",
+          "role": "Don Gaston, Graf von Foix",
+          "fullName": "Helmuth Krauss"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin, Sekretär und Vertrauter der Prinzessin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Floretta, Kammermädchen der Prinzessin",
+          "fullName": "Maria Kramer"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-24.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-10-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a78ef66af2b0e29fefa333",
+      "uid": "4b659e16-9cb3-4c46-996f-0235190ef181",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-25T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego, souveräner Graf von Barcelona",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana, Erbprinzessin, seine Tochter",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura, seine Nichte",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a71e",
+          "additional": "1938-1952",
+          "firstName": "Sylvia",
+          "lastName": "Devez (verehel. Waniek)",
+          "role": "Donna Fenisa, seine Nichte",
+          "fullName": "Sylvia Devez (verehel. Waniek)"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar, Prinz von Urgel",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis, Prinz von Bearne",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston, Graf von Foix",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin, Sekretär und Vertrauter der Prinzessin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Floretta, Kammermädchen der Prinzessin",
+          "fullName": "Lisa Thenen"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-25.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-25_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682af6a4801253dbd5c42bc",
+      "uid": "60ed9dd9-0a00-4ef7-83d3-f02a5b6154ce",
+      "productionId": "b5b7eb94-f4e3-46a2-ae87-92692058a7c9",
+      "title": "Donna Diana",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-08T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Don Diego, souveräner Graf von Barcelona",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Donna Diana, Erbprinzessin, seine Tochter",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad65",
+          "additional": "1928-1953",
+          "firstName": "Elisabeth",
+          "lastName": "Ortner-Kallina (Kallina)",
+          "role": "Donna Laura",
+          "fullName": "Elisabeth Ortner-Kallina (Kallina)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Donna Fenisa",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Don Cesar, Prinz",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Don Louis, Prinz",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b050",
+          "additional": "1897-1974",
+          "firstName": "Felix",
+          "lastName": "Steinböck",
+          "role": "Don Gaston, Graf",
+          "fullName": "Felix Steinböck"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Perin, Sekretär und Vertrauter der Prinzessin",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Floretta, Kammermädchen der Prinzessin",
+          "fullName": "Lisa Thenen"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b5c9",
+          "additional": "Pseud. von J. Schreyvogel",
+          "firstName": "Carl August",
+          "lastName": "West",
+          "fullName": "Carl August West",
+          "role": "Deutsch"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musik"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Bühneneinrichtung"
+        },
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa62",
+          "additional": "",
+          "firstName": "Stella",
+          "lastName": "Junker",
+          "fullName": "Stella Junker",
+          "role": "Kostüme"
+        },
+        {
+          "_id": "6504166ba47588ad6024b05e",
+          "additional": "Bearb., Autor",
+          "firstName": "Alexander",
+          "lastName": "Steinbrecher",
+          "fullName": "Alexander Steinbrecher",
+          "role": "Musikalische Leitung"
+        },
+        {
+          "_id": "6504166ba47588ad6024b164",
+          "additional": "",
+          "firstName": "Margarete",
+          "lastName": "Wallmann",
+          "fullName": "Margarete Wallmann",
+          "role": "Tanzeinstudierung"
+        },
+        {
+          "_id": "6504166ba47588ad6024a740",
+          "additional": "vom Ballett der Wiener Staatsoper",
+          "firstName": "Julia",
+          "lastName": "Drapal",
+          "fullName": "Julia Drapal",
+          "role": "Tänzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024adf0",
+          "additional": "vom Ballett der Wiener Staatsoper",
+          "firstName": "Leopoldine",
+          "lastName": "Pokorny",
+          "fullName": "Leopoldine Pokorny",
+          "role": "Tänzer"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b806",
+          "additional": "",
+          "firstName": "y Cabana Agustin",
+          "lastName": "Moreto",
+          "fullName": "y Cabana Agustin Moreto"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000012.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

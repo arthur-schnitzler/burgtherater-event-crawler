@@ -1,0 +1,2455 @@
+{
+  "_id": "66a535b76af2b0e29fc06d8d",
+  "uid": "0e8dd8eb-ca47-49cd-8d08-b25ffeda4f55",
+  "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+  "title": "Kaiser Karls Geisel",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-05-07T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ab36",
+      "additional": "1884-1959",
+      "firstName": "Werner",
+      "lastName": "Krauss (Krauß)",
+      "role": "Kaiser Karl der Grosse",
+      "fullName": "Werner Krauss (Krauß)"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab30",
+      "additional": "",
+      "firstName": "Maria",
+      "lastName": "Kramer",
+      "role": "Gersuind",
+      "fullName": "Maria Kramer"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Ercambald",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "6504166ba47588ad6024a543",
+      "additional": "1886-1958",
+      "firstName": "Raoul",
+      "lastName": "Aslan",
+      "role": "Alcuin",
+      "fullName": "Raoul Aslan"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Norico",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Bennit",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "6504166ba47588ad6024ad8f",
+      "additional": "1880-1954",
+      "firstName": "Albert",
+      "lastName": "Paulmann",
+      "role": "Erster Kapellan",
+      "fullName": "Albert Paulmann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a612",
+      "additional": "1868-1958",
+      "firstName": "Hedwig",
+      "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+      "role": "Oberin",
+      "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac81",
+      "additional": "1880-1960",
+      "firstName": "Lotte",
+      "lastName": "Medelsky",
+      "role": "Schwester Verwalterin",
+      "fullName": "Lotte Medelsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024ab9e",
+      "additional": "",
+      "firstName": "Inge",
+      "lastName": "Leddihn",
+      "role": "Klosterschwestern",
+      "fullName": "Inge Leddihn"
+    },
+    {
+      "_id": "6504166ba47588ad6024b107",
+      "additional": "",
+      "firstName": "Marie",
+      "lastName": "Trentin",
+      "role": "Klosterschwestern",
+      "fullName": "Marie Trentin"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f6",
+      "additional": "",
+      "firstName": "Blanka",
+      "lastName": "Hohenthal",
+      "role": "Klosterschwestern",
+      "fullName": "Blanka Hohenthal"
+    },
+    {
+      "_id": "6504166ba47588ad6024a52b",
+      "additional": "",
+      "firstName": "Edeltraude",
+      "lastName": "Arnoscht",
+      "role": "Klosterschwestern",
+      "fullName": "Edeltraude Arnoscht"
+    },
+    {
+      "_id": "6504166ba47588ad6024a6c9",
+      "additional": "",
+      "firstName": "Helga",
+      "lastName": "Czech-Rechtensee",
+      "role": "Klosterschwestern",
+      "fullName": "Helga Czech-Rechtensee"
+    },
+    {
+      "_id": "6504166ba47588ad6024a99d",
+      "additional": "1934-1937",
+      "firstName": "Trude",
+      "lastName": "Helmreich",
+      "role": "Klosterschwestern",
+      "fullName": "Trude Helmreich"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "658dbef351cd38b410f55fdb",
+      "firstName": "Hermann",
+      "lastName": "Röbbeling",
+      "additional": "",
+      "fullName": "Hermann Röbbeling",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Bühnenbild"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Kostüme"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b3e2",
+      "additional": "",
+      "firstName": "Gerhart",
+      "lastName": "Hauptmann",
+      "fullName": "Gerhart Hauptmann"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-07.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c35d3ced60fbe22f40f",
+      "uid": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Premiere",
+      "count": "13",
+      "date": "1937-04-22T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Grosse",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ercambald",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Klosterschwestern",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0586.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-22.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a544176af2b0e29fc19b2b",
+      "uid": "735fddeb-6bcc-49d5-a8f2-ca44a79acfd6",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-24T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Große",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ercambald",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Klosterschwestern",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-24.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a535246af2b0e29fc05fca",
+      "uid": "33e2f9de-f4f7-4eee-a502-dc25dd66d34b",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-28T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Grosse",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ercambald",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Klosterschwestern",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-28.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a535536af2b0e29fc063d7",
+      "uid": "8776fda6-990b-427a-b678-43976f1e8494",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-30T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Grosse",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ercambald",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Klosterschwestern",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-04-30.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a54d1f6af2b0e29fc259b6",
+      "uid": "cd9f97a2-23f0-483b-9310-21d57b04f586",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Große",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Ercambald",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024b00e",
+          "additional": "Lore",
+          "firstName": "Eleonore",
+          "lastName": "Solvis",
+          "role": "Klosterschwestern",
+          "fullName": "Eleonore Solvis"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-02.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-02_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a5358d6af2b0e29fc06962",
+      "uid": "8ba9a225-34ac-44ae-aff9-a0d857906340",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-05T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Grosse",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ercambald",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Klosterschwestern",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-05.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a535b76af2b0e29fc06d8d",
+      "uid": "0e8dd8eb-ca47-49cd-8d08-b25ffeda4f55",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-07T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Grosse",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ercambald",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Klosterschwestern",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-07.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a535da6af2b0e29fc070dc",
+      "uid": "2713e7ee-4b65-407b-8874-264773631c99",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-10T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Grosse",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Ercambald",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Klosterschwestern",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-10.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a556306af2b0e29fc31bbb",
+      "uid": "ea691612-1fb0-4583-9c2b-c9713808593e",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-25T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Große",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Ercambald",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Klosterschwestern",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-25.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a559406af2b0e29fc35eec",
+      "uid": "74005c2a-0934-414b-b87d-6dcd0d9e8cd9",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-31T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Große",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ercambald",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Klosterschwestern",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-31.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a55c056af2b0e29fc39f16",
+      "uid": "96fd73e9-efcc-44d2-b5b5-e77c757505a4",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-08T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Große",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ercambald",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Klosterschwestern",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-08.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a55c506af2b0e29fc3a5f2",
+      "uid": "569b4fff-4115-4ff1-91f6-fd11e72ddc2f",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-09T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Große",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Ercambald",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a543",
+          "additional": "1886-1958",
+          "firstName": "Raoul",
+          "lastName": "Aslan",
+          "role": "Alcuin",
+          "fullName": "Raoul Aslan"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Bennit",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Oberin",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Klosterschwestern",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-09.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a601766af2b0e29fd006d0",
+      "uid": "aad5ca50-763c-47a2-8d6b-743dada384b1",
+      "productionId": "fa26f1fd-9b46-4625-adb2-4a2bf6c06253",
+      "title": "Kaiser Karls Geisel",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-24T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Kaiser Karl der Große",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Gersuind",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Ercambald",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Alcuin",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Norico",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bennit",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad8f",
+          "additional": "1880-1954",
+          "firstName": "Albert",
+          "lastName": "Paulmann",
+          "role": "Erster Kapellan",
+          "fullName": "Albert Paulmann"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Oberin",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Schwester Verwalterin",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab9e",
+          "additional": "",
+          "firstName": "Inge",
+          "lastName": "Leddihn",
+          "role": "Klosterschwestern",
+          "fullName": "Inge Leddihn"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Klosterschwestern",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Klosterschwestern",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "6504166ba47588ad6024a52b",
+          "additional": "",
+          "firstName": "Edeltraude",
+          "lastName": "Arnoscht",
+          "role": "Klosterschwestern",
+          "fullName": "Edeltraude Arnoscht"
+        },
+        {
+          "_id": "6504166ba47588ad6024a6c9",
+          "additional": "",
+          "firstName": "Helga",
+          "lastName": "Czech-Rechtensee",
+          "role": "Klosterschwestern",
+          "fullName": "Helga Czech-Rechtensee"
+        },
+        {
+          "_id": "6504166ba47588ad6024a99d",
+          "additional": "1934-1937",
+          "firstName": "Trude",
+          "lastName": "Helmreich",
+          "role": "Klosterschwestern",
+          "fullName": "Trude Helmreich"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "658dbef351cd38b410f55fdb",
+          "firstName": "Hermann",
+          "lastName": "Röbbeling",
+          "additional": "",
+          "fullName": "Hermann Röbbeling",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Kostüme"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-24.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

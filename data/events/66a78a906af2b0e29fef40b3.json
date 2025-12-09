@@ -1,0 +1,3696 @@
+{
+  "_id": "66a78a906af2b0e29fef40b3",
+  "uid": "08ff568e-0e32-49a3-8ad5-e2f2e965151c",
+  "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+  "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-06-05T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ab36",
+      "additional": "1884-1959",
+      "firstName": "Werner",
+      "lastName": "Krauss (Krauß)",
+      "role": "Wallenstein",
+      "fullName": "Werner Krauss (Krauß)"
+    },
+    {
+      "_id": "6504166ba47588ad6024a992",
+      "additional": "1867-1949",
+      "firstName": "Albert",
+      "lastName": "Heine",
+      "role": "Octavio Piccolomini",
+      "fullName": "Albert Heine"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b23",
+      "additional": "",
+      "firstName": "Fred",
+      "lastName": "Liewehr",
+      "role": "Max Piccolomini",
+      "fullName": "Fred Liewehr"
+    },
+    {
+      "_id": "6568ee8c0080658502207fed",
+      "firstName": "Franz",
+      "lastName": "Höbling",
+      "additional": "1886-1965",
+      "role": "Graf Terzky",
+      "fullName": "Franz Höbling"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Illo",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0f5",
+      "additional": "1871-1965",
+      "firstName": "Otto",
+      "lastName": "Tressler",
+      "role": "Isolani",
+      "fullName": "Otto Tressler"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac5d",
+      "additional": "1876-1949",
+      "firstName": "Hans",
+      "lastName": "Marr",
+      "role": "Buttler",
+      "fullName": "Hans Marr"
+    },
+    {
+      "_id": "6504166ba47588ad6024a98a",
+      "additional": "1884-1947",
+      "firstName": "Reinhold",
+      "lastName": "Haeussermann",
+      "role": "Tiefenbach",
+      "fullName": "Reinhold Haeussermann"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9bf",
+      "additional": "1907-1936",
+      "firstName": "Ludwig",
+      "lastName": "Hetsey",
+      "role": "Don Maradas",
+      "fullName": "Ludwig Hetsey"
+    },
+    {
+      "_id": "6504166ba47588ad6024a63c",
+      "additional": "1899-1971",
+      "firstName": "Viktor",
+      "lastName": "Braun",
+      "role": "Götz",
+      "fullName": "Viktor Braun"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Colalto",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "6504166ba47588ad6024af31",
+      "additional": "Autor, 1891-1963",
+      "firstName": "Wilhelm",
+      "lastName": "Schmidt",
+      "role": "Rittmeister Neumann",
+      "fullName": "Wilhelm Schmidt"
+    },
+    {
+      "_id": "6504166ba47588ad6024a990",
+      "additional": "1888-1954",
+      "firstName": "Wilhelm",
+      "lastName": "Heim",
+      "role": "Von Questenberg",
+      "fullName": "Wilhelm Heim"
+    },
+    {
+      "_id": "6504166ba47588ad6024a568",
+      "additional": "1898-1978",
+      "firstName": "Ewald",
+      "lastName": "Balser",
+      "role": "Oberst Wrangel",
+      "fullName": "Ewald Balser"
+    },
+    {
+      "_id": "6504166ba47588ad6024aff3",
+      "additional": "1899-1965",
+      "firstName": "Reinhold",
+      "lastName": "Siegert",
+      "role": "Gordon",
+      "fullName": "Reinhold Siegert"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9b33",
+      "additional": "1881-1970",
+      "firstName": "Ferdinand",
+      "lastName": "Onno",
+      "role": "Schwedischer Hauptmann",
+      "fullName": "Ferdinand Onno"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9cf",
+      "additional": "1893-1945",
+      "firstName": "Hans",
+      "lastName": "Hitzinger",
+      "role": "Kürassier-Gefreiter",
+      "fullName": "Hans Hitzinger"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa8a",
+      "additional": "1881-1959",
+      "firstName": "Julius",
+      "lastName": "Karsten",
+      "role": "Bürgermeister von Eger",
+      "fullName": "Julius Karsten"
+    },
+    {
+      "_id": "6504166ba47588ad6024aada",
+      "additional": "",
+      "firstName": "Rudolf",
+      "lastName": "Kleiser",
+      "role": "Adjutant Piccolominis",
+      "fullName": "Rudolf Kleiser"
+    },
+    {
+      "_id": "6504166ba47588ad6024b085",
+      "additional": "1868-1938",
+      "firstName": "Fritz",
+      "lastName": "Strassni",
+      "role": "Seni, Astrolog",
+      "fullName": "Fritz Strassni"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac90",
+      "additional": "1877-1958",
+      "firstName": "Maria",
+      "lastName": "Mayer",
+      "role": "Herzogin von Friedland",
+      "fullName": "Maria Mayer"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa3d",
+      "additional": "",
+      "firstName": "Julia",
+      "lastName": "Janssen",
+      "role": "Thekla",
+      "fullName": "Julia Janssen"
+    },
+    {
+      "_id": "6504166ba47588ad6024a612",
+      "additional": "1868-1958",
+      "firstName": "Hedwig",
+      "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+      "role": "Gräfin Terzky",
+      "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+    },
+    {
+      "_id": "6504166ba47588ad6024b107",
+      "additional": "",
+      "firstName": "Marie",
+      "lastName": "Trentin",
+      "role": "Fräulein Neubrunn",
+      "fullName": "Marie Trentin"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Kornett",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024a621",
+      "additional": "",
+      "firstName": "Fritz",
+      "lastName": "Blum",
+      "role": "Kammerdiener",
+      "fullName": "Fritz Blum"
+    },
+    {
+      "_id": "6570bef400806585023dc09a",
+      "firstName": "Karl",
+      "lastName": "Friedl",
+      "additional": "1895-1970",
+      "role": "Diener",
+      "fullName": "Karl Friedl"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024a9c9",
+      "additional": "1877-1966",
+      "firstName": "Hofrat Franz",
+      "lastName": "Herterich",
+      "fullName": "Hofrat Franz Herterich",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024b448",
+      "additional": "",
+      "firstName": "Carl Eduard",
+      "lastName": "Klopfer",
+      "fullName": "Carl Eduard Klopfer",
+      "role": "Einrichtung"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae85",
+      "additional": "Bühne",
+      "firstName": "Alfred",
+      "lastName": "Roller",
+      "fullName": "Alfred Roller",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b544",
+      "additional": "",
+      "firstName": "Friedrich",
+      "lastName": "Schiller",
+      "fullName": "Friedrich Schiller"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-05.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-05_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61be7d3ced60fbe21c161",
+      "uid": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neueinstudierung",
+      "count": "21",
+      "date": "1932-03-02T12:00:00.000Z",
+      "season": "1931/1932",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a583",
+          "additional": "",
+          "firstName": "Albert",
+          "lastName": "Bassermann",
+          "role": "Wallenstein",
+          "fullName": "Albert Bassermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "6504166ba47588ad6024a971",
+          "additional": "1889-1972",
+          "firstName": "Paul",
+          "lastName": "Hartmann",
+          "role": "Max Piccolomini",
+          "fullName": "Paul Hartmann"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa4",
+          "additional": "1927-1932",
+          "firstName": "Friedrich",
+          "lastName": "Schütze",
+          "role": "Götz",
+          "fullName": "Friedrich Schütze"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Rittmeister Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "65821eed51cd38b410e34940",
+          "firstName": "Alfred",
+          "lastName": "Lohner",
+          "additional": "1924-1933; 1947-1948 a. G.",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Alfred Lohner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Frl. Neubrunn",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Kornett",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024b638",
+          "additional": "",
+          "firstName": "Robert",
+          "lastName": "Blum",
+          "role": "Kammerdiener Wallensteins",
+          "fullName": "Robert Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae5b",
+          "additional": "1928-1932",
+          "firstName": "Kurt",
+          "lastName": "Retzer",
+          "role": "Page Wallensteins",
+          "fullName": "Kurt Retzer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener Piccolominis",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Haushofmeister",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0542.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1932/1932-03-02.jpg"
+      ],
+      "comment": "Dazu wurde \"Die Piccolomini\" 1 mal und \"Wallensteins Tod\" 5 mal allein aufgeführt.\nEinrichtung in 5 Aufzügen von C. E. Kiopfer."
+    },
+    {
+      "_id": "6698efd86af2b0e29fc64559",
+      "uid": "4a817536-70ea-4e0a-9896-339337caff2e",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1932-03-04T11:00:00.000Z",
+      "season": "1931/1932",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a583",
+          "additional": "",
+          "firstName": "Albert",
+          "lastName": "Bassermann",
+          "role": "Wallenstein",
+          "fullName": "Albert Bassermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "6504166ba47588ad6024a971",
+          "additional": "1889-1972",
+          "firstName": "Paul",
+          "lastName": "Hartmann",
+          "role": "Max Piccolomini",
+          "fullName": "Paul Hartmann"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa4",
+          "additional": "1927-1932",
+          "firstName": "Friedrich",
+          "lastName": "Schütze",
+          "role": "Götz",
+          "fullName": "Friedrich Schütze"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Rittmeister Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "65821eed51cd38b410e34940",
+          "firstName": "Alfred",
+          "lastName": "Lohner",
+          "additional": "1924-1933; 1947-1948 a. G.",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Alfred Lohner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Frl. Neubrunn",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Kornett",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024b638",
+          "additional": "",
+          "firstName": "Robert",
+          "lastName": "Blum",
+          "role": "Kammerdiener Wallensteins",
+          "fullName": "Robert Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae5b",
+          "additional": "1928-1932",
+          "firstName": "Kurt",
+          "lastName": "Retzer",
+          "role": "Page Wallensteins",
+          "fullName": "Kurt Retzer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener Piccolominis",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Haushofmeister",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1932/1932-03-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6698f1e06af2b0e29fc66fb1",
+      "uid": "42871a7f-1899-46e3-9651-b69202269d48",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1932-03-05T11:00:00.000Z",
+      "season": "1931/1932",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a583",
+          "additional": "",
+          "firstName": "Albert",
+          "lastName": "Bassermann",
+          "role": "Wallenstein",
+          "fullName": "Albert Bassermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "6504166ba47588ad6024a971",
+          "additional": "1889-1972",
+          "firstName": "Paul",
+          "lastName": "Hartmann",
+          "role": "Max Piccolomini",
+          "fullName": "Paul Hartmann"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa4",
+          "additional": "1927-1932",
+          "firstName": "Friedrich",
+          "lastName": "Schütze",
+          "role": "Götz",
+          "fullName": "Friedrich Schütze"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Rittmeister Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "65821eed51cd38b410e34940",
+          "firstName": "Alfred",
+          "lastName": "Lohner",
+          "additional": "1924-1933; 1947-1948 a. G.",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Alfred Lohner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Frl. Neubrunn",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Kornett",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024b638",
+          "additional": "",
+          "firstName": "Robert",
+          "lastName": "Blum",
+          "role": "Kammerdiener Wallensteins",
+          "fullName": "Robert Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae5b",
+          "additional": "1928-1932",
+          "firstName": "Kurt",
+          "lastName": "Retzer",
+          "role": "Page Wallensteins",
+          "fullName": "Kurt Retzer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener Piccolominis",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Haushofmeister",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1932/1932-03-05.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1932/1932-03-05_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "669a1dc36af2b0e29fde8b00",
+      "uid": "984c50ef-a280-4167-acb5-274709a24853",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1932-03-07T11:00:00.000Z",
+      "season": "1931/1932",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a583",
+          "additional": "",
+          "firstName": "Albert",
+          "lastName": "Bassermann",
+          "role": "Wallenstein",
+          "fullName": "Albert Bassermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "6504166ba47588ad6024a971",
+          "additional": "1889-1972",
+          "firstName": "Paul",
+          "lastName": "Hartmann",
+          "role": "Max Piccolomini",
+          "fullName": "Paul Hartmann"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa4",
+          "additional": "1927-1932",
+          "firstName": "Friedrich",
+          "lastName": "Schütze",
+          "role": "Götz",
+          "fullName": "Friedrich Schütze"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Rittmeister Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "65821eed51cd38b410e34940",
+          "firstName": "Alfred",
+          "lastName": "Lohner",
+          "additional": "1924-1933; 1947-1948 a. G.",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Alfred Lohner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Frl. Neubrunn",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Kornett",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024b638",
+          "additional": "",
+          "firstName": "Robert",
+          "lastName": "Blum",
+          "role": "Kammerdiener Wallensteins",
+          "fullName": "Robert Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae5b",
+          "additional": "1928-1932",
+          "firstName": "Kurt",
+          "lastName": "Retzer",
+          "role": "Page Wallensteins",
+          "fullName": "Kurt Retzer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener Piccolominis",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Haushofmeister",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1932/1932-03-07.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "669a1e776af2b0e29fde9b4e",
+      "uid": "938d5349-0cb2-4563-b755-f527527829a2",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1932-03-08T11:00:00.000Z",
+      "season": "1931/1932",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a583",
+          "additional": "",
+          "firstName": "Albert",
+          "lastName": "Bassermann",
+          "role": "Wallenstein",
+          "fullName": "Albert Bassermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "6504166ba47588ad6024a971",
+          "additional": "1889-1972",
+          "firstName": "Paul",
+          "lastName": "Hartmann",
+          "role": "Max Piccolomini",
+          "fullName": "Paul Hartmann"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa4",
+          "additional": "1927-1932",
+          "firstName": "Friedrich",
+          "lastName": "Schütze",
+          "role": "Götz",
+          "fullName": "Friedrich Schütze"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Rittmeister Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "65821eed51cd38b410e34940",
+          "firstName": "Alfred",
+          "lastName": "Lohner",
+          "additional": "1924-1933; 1947-1948 a. G.",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Alfred Lohner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Frl. Neubrunn",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Kornett",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b638",
+          "additional": "",
+          "firstName": "Robert",
+          "lastName": "Blum",
+          "role": "Kammerdiener Wallensteins",
+          "fullName": "Robert Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae5b",
+          "additional": "1928-1932",
+          "firstName": "Kurt",
+          "lastName": "Retzer",
+          "role": "Page Wallensteins",
+          "fullName": "Kurt Retzer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener Piccolominis",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Haushofmeister",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1932/1932-03-08.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "669a1ffa6af2b0e29fdebd5a",
+      "uid": "e08770c1-6fa7-442e-b247-bbb9616c88ec",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1932-03-11T11:00:00.000Z",
+      "season": "1931/1932",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a583",
+          "additional": "",
+          "firstName": "Albert",
+          "lastName": "Bassermann",
+          "role": "Wallenstein",
+          "fullName": "Albert Bassermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "6504166ba47588ad6024a971",
+          "additional": "1889-1972",
+          "firstName": "Paul",
+          "lastName": "Hartmann",
+          "role": "Max Piccolomini",
+          "fullName": "Paul Hartmann"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa4",
+          "additional": "1927-1932",
+          "firstName": "Friedrich",
+          "lastName": "Schütze",
+          "role": "Götz",
+          "fullName": "Friedrich Schütze"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Rittmeister Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "65821eed51cd38b410e34940",
+          "firstName": "Alfred",
+          "lastName": "Lohner",
+          "additional": "1924-1933; 1947-1948 a. G.",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Alfred Lohner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Frl. Neubrunn",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Kornett",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024b638",
+          "additional": "",
+          "firstName": "Robert",
+          "lastName": "Blum",
+          "role": "Kammerdiener Wallensteins",
+          "fullName": "Robert Blum"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae5b",
+          "additional": "1928-1932",
+          "firstName": "Kurt",
+          "lastName": "Retzer",
+          "role": "Page Wallensteins",
+          "fullName": "Kurt Retzer"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener Piccolominis",
+          "fullName": "Karl Friedl"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Haushofmeister",
+          "fullName": "Armand Ozory"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1932/1932-03-11.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66997b146af2b0e29fd22276",
+      "uid": "f0d738a8-b4f7-48a4-aa02-32159f437dc7",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "3. Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1932-04-02T11:00:00.000Z",
+      "season": "1931/1932",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024a583",
+          "additional": "",
+          "firstName": "Albert",
+          "lastName": "Bassermann",
+          "role": "Wallenstein",
+          "fullName": "Albert Bassermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "6504166ba47588ad6024a971",
+          "additional": "1889-1972",
+          "firstName": "Paul",
+          "lastName": "Hartmann",
+          "role": "Max",
+          "fullName": "Paul Hartmann"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Isolani",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Butler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "65821eed51cd38b410e34940",
+          "firstName": "Alfred",
+          "lastName": "Lohner",
+          "additional": "1924-1933; 1947-1948 a. G.",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Alfred Lohner"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Frl. Neubrunn",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae5b",
+          "additional": "1928-1932",
+          "firstName": "Kurt",
+          "lastName": "Retzer",
+          "role": "Page",
+          "fullName": "Kurt Retzer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Kammerdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1932/1932-04-02.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1932/1932-04-02_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "669f77cc6af2b0e29f4a7cc1",
+      "uid": "cd4b6dde-09b4-4229-a6a5-c6374ff05f20",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "3. Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1933-12-16T11:00:00.000Z",
+      "season": "1933/1934",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Wallenstein",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "6504166ba47588ad6024a971",
+          "additional": "1889-1972",
+          "firstName": "Paul",
+          "lastName": "Hartmann",
+          "role": "Max",
+          "fullName": "Paul Hartmann"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Butler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a786",
+          "additional": "1896-1954",
+          "firstName": "Maria",
+          "lastName": "Eis",
+          "role": "Gräfin Terzky",
+          "fullName": "Maria Eis"
+        },
+        {
+          "_id": "6504166ba47588ad6024ab30",
+          "additional": "",
+          "firstName": "Maria",
+          "lastName": "Kramer",
+          "role": "Frl. Neubrunn",
+          "fullName": "Maria Kramer"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Kammerdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1933/1933-12-16.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1933/1933-12-16_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4fff26af2b0e29fbc3046",
+      "uid": "070a4467-6012-4a0d-91e0-93ac824731d5",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-04-18T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Wallenstein",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Max Piccolomini",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Götz",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Rittmeister Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Von Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9a8",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Hennings",
+          "role": "Oberst Wrangel",
+          "fullName": "Fred Hennings"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni, Astrolog",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Fräulein Neubrunn",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Kornett",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Kammerdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b448",
+          "additional": "",
+          "firstName": "Carl Eduard",
+          "lastName": "Klopfer",
+          "fullName": "Carl Eduard Klopfer",
+          "role": "Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-04-18.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a383586af2b0e29f9e5eb8",
+      "uid": "8ecd296a-80c3-4396-a982-8ce6fc1da554",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-05-01T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Wallenstein",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Max Piccolomini",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Götz",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Rittmeister Neumann",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Von Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024a7b1",
+          "additional": "1931-1972, danach als Gast ",
+          "firstName": "Richard",
+          "lastName": "Eybner",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Richard Eybner"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni, Astrolog",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Fräulein Neubrunn",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Kornett",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Kammerdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b448",
+          "additional": "",
+          "firstName": "Carl Eduard",
+          "lastName": "Klopfer",
+          "fullName": "Carl Eduard Klopfer",
+          "role": "Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-05-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a3841b6af2b0e29f9e6dfa",
+      "uid": "2b1f43f4-333a-419d-8e13-980117be5be5",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1936-05-04T11:00:00.000Z",
+      "season": "1935/1936",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Wallenstein",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Max Piccolomini",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Götz",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024ad67",
+          "additional": "",
+          "firstName": "Armand",
+          "lastName": "Ozory",
+          "role": "Rittmeister Neumann",
+          "fullName": "Armand Ozory"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Von Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b36",
+          "additional": "1888-1961",
+          "firstName": "Paul",
+          "lastName": "Pranger",
+          "role": "Gordon",
+          "fullName": "Paul Pranger"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni, Astrolog",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Fräulein Neubrunn",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Kornett",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Kammerdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b448",
+          "additional": "",
+          "firstName": "Carl Eduard",
+          "lastName": "Klopfer",
+          "fullName": "Carl Eduard Klopfer",
+          "role": "Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1936/1936-05-04.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a789b06af2b0e29fef2d0d",
+      "uid": "27894e89-b513-451f-8a5a-670797e3b10f",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Wallenstein",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Max Piccolomini",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Götz",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Rittmeister Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "role": "Von Questenberg",
+          "fullName": "Hofrat Franz Herterich"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Gordon",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni, Astrolog",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Fräulein Neubrunn",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Kornett",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Kammerdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b448",
+          "additional": "",
+          "firstName": "Carl Eduard",
+          "lastName": "Klopfer",
+          "fullName": "Carl Eduard Klopfer",
+          "role": "Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-05-16.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a78a906af2b0e29fef40b3",
+      "uid": "08ff568e-0e32-49a3-8ad5-e2f2e965151c",
+      "productionId": "ceb4ca47-b858-42cd-88c0-f979ccd21a3e",
+      "title": "Wallenstein (2.Teil) Die Piccolomini - Wallensteins Tod",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-06-05T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ab36",
+          "additional": "1884-1959",
+          "firstName": "Werner",
+          "lastName": "Krauss (Krauß)",
+          "role": "Wallenstein",
+          "fullName": "Werner Krauss (Krauß)"
+        },
+        {
+          "_id": "6504166ba47588ad6024a992",
+          "additional": "1867-1949",
+          "firstName": "Albert",
+          "lastName": "Heine",
+          "role": "Octavio Piccolomini",
+          "fullName": "Albert Heine"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b23",
+          "additional": "",
+          "firstName": "Fred",
+          "lastName": "Liewehr",
+          "role": "Max Piccolomini",
+          "fullName": "Fred Liewehr"
+        },
+        {
+          "_id": "6568ee8c0080658502207fed",
+          "firstName": "Franz",
+          "lastName": "Höbling",
+          "additional": "1886-1965",
+          "role": "Graf Terzky",
+          "fullName": "Franz Höbling"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Illo",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Isolani",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac5d",
+          "additional": "1876-1949",
+          "firstName": "Hans",
+          "lastName": "Marr",
+          "role": "Buttler",
+          "fullName": "Hans Marr"
+        },
+        {
+          "_id": "6504166ba47588ad6024a98a",
+          "additional": "1884-1947",
+          "firstName": "Reinhold",
+          "lastName": "Haeussermann",
+          "role": "Tiefenbach",
+          "fullName": "Reinhold Haeussermann"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9bf",
+          "additional": "1907-1936",
+          "firstName": "Ludwig",
+          "lastName": "Hetsey",
+          "role": "Don Maradas",
+          "fullName": "Ludwig Hetsey"
+        },
+        {
+          "_id": "6504166ba47588ad6024a63c",
+          "additional": "1899-1971",
+          "firstName": "Viktor",
+          "lastName": "Braun",
+          "role": "Götz",
+          "fullName": "Viktor Braun"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Colalto",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "6504166ba47588ad6024af31",
+          "additional": "Autor, 1891-1963",
+          "firstName": "Wilhelm",
+          "lastName": "Schmidt",
+          "role": "Rittmeister Neumann",
+          "fullName": "Wilhelm Schmidt"
+        },
+        {
+          "_id": "6504166ba47588ad6024a990",
+          "additional": "1888-1954",
+          "firstName": "Wilhelm",
+          "lastName": "Heim",
+          "role": "Von Questenberg",
+          "fullName": "Wilhelm Heim"
+        },
+        {
+          "_id": "6504166ba47588ad6024a568",
+          "additional": "1898-1978",
+          "firstName": "Ewald",
+          "lastName": "Balser",
+          "role": "Oberst Wrangel",
+          "fullName": "Ewald Balser"
+        },
+        {
+          "_id": "6504166ba47588ad6024aff3",
+          "additional": "1899-1965",
+          "firstName": "Reinhold",
+          "lastName": "Siegert",
+          "role": "Gordon",
+          "fullName": "Reinhold Siegert"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9b33",
+          "additional": "1881-1970",
+          "firstName": "Ferdinand",
+          "lastName": "Onno",
+          "role": "Schwedischer Hauptmann",
+          "fullName": "Ferdinand Onno"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9cf",
+          "additional": "1893-1945",
+          "firstName": "Hans",
+          "lastName": "Hitzinger",
+          "role": "Kürassier-Gefreiter",
+          "fullName": "Hans Hitzinger"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa8a",
+          "additional": "1881-1959",
+          "firstName": "Julius",
+          "lastName": "Karsten",
+          "role": "Bürgermeister von Eger",
+          "fullName": "Julius Karsten"
+        },
+        {
+          "_id": "6504166ba47588ad6024aada",
+          "additional": "",
+          "firstName": "Rudolf",
+          "lastName": "Kleiser",
+          "role": "Adjutant Piccolominis",
+          "fullName": "Rudolf Kleiser"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Seni, Astrolog",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac90",
+          "additional": "1877-1958",
+          "firstName": "Maria",
+          "lastName": "Mayer",
+          "role": "Herzogin von Friedland",
+          "fullName": "Maria Mayer"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa3d",
+          "additional": "",
+          "firstName": "Julia",
+          "lastName": "Janssen",
+          "role": "Thekla",
+          "fullName": "Julia Janssen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a612",
+          "additional": "1868-1958",
+          "firstName": "Hedwig",
+          "lastName": "Bleibtreu (Römpler-Bleibtreu)",
+          "role": "Gräfin Terzky",
+          "fullName": "Hedwig Bleibtreu (Römpler-Bleibtreu)"
+        },
+        {
+          "_id": "6504166ba47588ad6024b107",
+          "additional": "",
+          "firstName": "Marie",
+          "lastName": "Trentin",
+          "role": "Fräulein Neubrunn",
+          "fullName": "Marie Trentin"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Kornett",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a621",
+          "additional": "",
+          "firstName": "Fritz",
+          "lastName": "Blum",
+          "role": "Kammerdiener",
+          "fullName": "Fritz Blum"
+        },
+        {
+          "_id": "6570bef400806585023dc09a",
+          "firstName": "Karl",
+          "lastName": "Friedl",
+          "additional": "1895-1970",
+          "role": "Diener",
+          "fullName": "Karl Friedl"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024b448",
+          "additional": "",
+          "firstName": "Carl Eduard",
+          "lastName": "Klopfer",
+          "fullName": "Carl Eduard Klopfer",
+          "role": "Einrichtung"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae85",
+          "additional": "Bühne",
+          "firstName": "Alfred",
+          "lastName": "Roller",
+          "fullName": "Alfred Roller",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b544",
+          "additional": "",
+          "firstName": "Friedrich",
+          "lastName": "Schiller",
+          "fullName": "Friedrich Schiller"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-05.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-06-05_00000002.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

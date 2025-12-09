@@ -1,0 +1,500 @@
+{
+  "_id": "66a4bc6a6af2b0e29fb6940a",
+  "uid": "2fe84983-0a54-43a6-a27d-e78d7e056861",
+  "productionId": "7c1d5b6f-b188-4ddb-962a-89269e49e3fb",
+  "title": "Das Versprechen hinterm Herd",
+  "subtitle": "",
+  "location": "Akademietheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-04-10T11:00:00.000Z",
+  "season": "1936/1937",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024ac37",
+      "additional": "1881-1960",
+      "firstName": "Ferdinand",
+      "lastName": "Maierhofer",
+      "role": "Quantner",
+      "fullName": "Ferdinand Maierhofer"
+    },
+    {
+      "_id": "6504166ba47588ad6024b13e",
+      "additional": "1904-1972",
+      "firstName": "Eduard",
+      "lastName": "Volters",
+      "role": "Loisl",
+      "fullName": "Eduard Volters"
+    },
+    {
+      "_id": "6504166ba47588ad6024a8a8",
+      "additional": "1893-1952",
+      "firstName": "Blanka",
+      "lastName": "Glossy",
+      "role": "Nandl",
+      "fullName": "Blanka Glossy"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae22",
+      "additional": "1886-1970",
+      "firstName": "Emmerich",
+      "lastName": "Reimers",
+      "role": "Strizow",
+      "fullName": "Emmerich Reimers"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024b1a7",
+      "additional": "",
+      "firstName": "Hans",
+      "lastName": "Wengraf",
+      "fullName": "Hans Wengraf",
+      "role": "Regie"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b612",
+      "additional": "",
+      "firstName": "Alexander",
+      "lastName": "Baumann",
+      "fullName": "Alexander Baumann"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000106.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "66a4bc6a6af2b0e29fb6940a",
+      "uid": "2fe84983-0a54-43a6-a27d-e78d7e056861",
+      "productionId": "7c1d5b6f-b188-4ddb-962a-89269e49e3fb",
+      "title": "Das Versprechen hinterm Herd",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-10T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Quantner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Loisl",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Nandl",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Strizow",
+          "fullName": "Emmerich Reimers"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b612",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Baumann",
+          "fullName": "Alexander Baumann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000106.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "65c61c34d3ced60fbe22ef99",
+      "uid": "7c1d5b6f-b188-4ddb-962a-89269e49e3fb",
+      "productionId": "7c1d5b6f-b188-4ddb-962a-89269e49e3fb",
+      "title": "Das Versprechen hinterm Herd",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neueinstudierung",
+      "count": "6",
+      "date": "1937-04-17T12:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Quantner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Loisl",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Nandl",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Strizow",
+          "fullName": "Emmerich Reimers"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b612",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Baumann",
+          "fullName": "Alexander Baumann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0586.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000113.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a401886af2b0e29fa8772d",
+      "uid": "25129b45-e988-4ef3-af0a-517778ad91d0",
+      "productionId": "7c1d5b6f-b188-4ddb-962a-89269e49e3fb",
+      "title": "Das Versprechen hinterm Herd",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-20T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Quantner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Loisl",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Nandl",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Strizow",
+          "fullName": "Emmerich Reimers"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b612",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Baumann",
+          "fullName": "Alexander Baumann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000117.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a4024b6af2b0e29fa8867d",
+      "uid": "08299200-bf12-45ec-8881-8d655be0ab9b",
+      "productionId": "7c1d5b6f-b188-4ddb-962a-89269e49e3fb",
+      "title": "Das Versprechen hinterm Herd",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-04-21T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Quantner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Loisl",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Nandl",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Strizow",
+          "fullName": "Emmerich Reimers"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b612",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Baumann",
+          "fullName": "Alexander Baumann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000118.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a408356af2b0e29fa8fe37",
+      "uid": "d5290742-fc32-44de-92fe-81ad86123e40",
+      "productionId": "7c1d5b6f-b188-4ddb-962a-89269e49e3fb",
+      "title": "Das Versprechen hinterm Herd",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-02T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Quantner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Loisl",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Nandl",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Strizow",
+          "fullName": "Emmerich Reimers"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b612",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Baumann",
+          "fullName": "Alexander Baumann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000128.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a40fab6af2b0e29fa99824",
+      "uid": "d273cb71-1008-46d1-8757-a9f09950285e",
+      "productionId": "7c1d5b6f-b188-4ddb-962a-89269e49e3fb",
+      "title": "Das Versprechen hinterm Herd",
+      "subtitle": "",
+      "location": "Akademietheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-05-16T11:00:00.000Z",
+      "season": "1936/1937",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024ac37",
+          "additional": "1881-1960",
+          "firstName": "Ferdinand",
+          "lastName": "Maierhofer",
+          "role": "Quantner",
+          "fullName": "Ferdinand Maierhofer"
+        },
+        {
+          "_id": "6504166ba47588ad6024b13e",
+          "additional": "1904-1972",
+          "firstName": "Eduard",
+          "lastName": "Volters",
+          "role": "Loisl",
+          "fullName": "Eduard Volters"
+        },
+        {
+          "_id": "6504166ba47588ad6024a8a8",
+          "additional": "1893-1952",
+          "firstName": "Blanka",
+          "lastName": "Glossy",
+          "role": "Nandl",
+          "fullName": "Blanka Glossy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae22",
+          "additional": "1886-1970",
+          "firstName": "Emmerich",
+          "lastName": "Reimers",
+          "role": "Strizow",
+          "fullName": "Emmerich Reimers"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024b1a7",
+          "additional": "",
+          "firstName": "Hans",
+          "lastName": "Wengraf",
+          "fullName": "Hans Wengraf",
+          "role": "Regie"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b612",
+          "additional": "",
+          "firstName": "Alexander",
+          "lastName": "Baumann",
+          "fullName": "Alexander Baumann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Akademietheater/1937/00000143.jpg"
+      ],
+      "comment": ""
+    }
+  ]
+}

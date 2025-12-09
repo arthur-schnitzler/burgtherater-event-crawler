@@ -1,0 +1,2106 @@
+{
+  "_id": "66a72eb96af2b0e29fe76240",
+  "uid": "1402db1b-7819-460d-9d36-b02ca74be8aa",
+  "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+  "title": "Die versunkene Glocke",
+  "subtitle": "",
+  "location": "Burgtheater",
+  "location2": null,
+  "category": "Schauspiel",
+  "premiere": null,
+  "count": "",
+  "date": "1937-11-24T11:00:00.000Z",
+  "season": "1937/1938",
+  "cast": [
+    {
+      "_id": "6504166ba47588ad6024b237",
+      "additional": "1901-1970",
+      "firstName": "Heinz",
+      "lastName": "Woester",
+      "role": "Heinrich, ein Glockengiesser",
+      "fullName": "Heinz Woester"
+    },
+    {
+      "_id": "656cd92a00806585023581ab",
+      "firstName": "Auguste",
+      "lastName": "Pünkösdy",
+      "additional": "1890-1967",
+      "role": "Magda, sein Weib",
+      "fullName": "Auguste Pünkösdy"
+    },
+    {
+      "_id": "6504166ba47588ad6024ae44",
+      "additional": "1935-1937",
+      "firstName": "Ernst",
+      "lastName": "Rendl",
+      "role": "Beider Kinder",
+      "fullName": "Ernst Rendl"
+    },
+    {
+      "_id": "6504166ba47588ad6024aad9",
+      "additional": "1937-1940",
+      "firstName": "Josef (Josy)",
+      "lastName": "Kleinpeter",
+      "role": "Beider Kinder",
+      "fullName": "Josef (Josy) Kleinpeter"
+    },
+    {
+      "_id": "6504166ba47588ad6024afe7",
+      "additional": "1872-1953",
+      "firstName": "Hans",
+      "lastName": "Siebert",
+      "role": "Pfarrer",
+      "fullName": "Hans Siebert"
+    },
+    {
+      "_id": "6504166ba47588ad6024b085",
+      "additional": "1868-1938",
+      "firstName": "Fritz",
+      "lastName": "Strassni",
+      "role": "Schulmeister",
+      "fullName": "Fritz Strassni"
+    },
+    {
+      "_id": "6504166ba47588ad6024b180",
+      "additional": "1884-1963",
+      "firstName": "Hermann",
+      "lastName": "Wawra",
+      "role": "Barbier",
+      "fullName": "Hermann Wawra"
+    },
+    {
+      "_id": "6504166ba47588ad6024aa88",
+      "additional": "1885-1971",
+      "firstName": "Lilly",
+      "lastName": "Karoly",
+      "role": "Nachbarin",
+      "fullName": "Lilly Karoly"
+    },
+    {
+      "_id": "6504166ba47588ad6024ac81",
+      "additional": "1880-1960",
+      "firstName": "Lotte",
+      "lastName": "Medelsky",
+      "role": "Die alte Wittichen",
+      "fullName": "Lotte Medelsky"
+    },
+    {
+      "_id": "6504166ba47588ad6024afa8",
+      "additional": "1937 als Gast",
+      "firstName": "Ellen",
+      "lastName": "Schwannecke",
+      "role": "Rautendelein",
+      "fullName": "Ellen Schwannecke"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0f5",
+      "additional": "1871-1965",
+      "firstName": "Otto",
+      "lastName": "Tressler",
+      "role": "Nikkelmann",
+      "fullName": "Otto Tressler"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0df",
+      "additional": "",
+      "firstName": "Hermann",
+      "lastName": "Thimig",
+      "role": "Waldschrat",
+      "fullName": "Hermann Thimig"
+    },
+    {
+      "_id": "6504166ba47588ad6024b0d5",
+      "additional": "1937-1938",
+      "firstName": "Lisa",
+      "lastName": "Thenen",
+      "role": "Erste Elfe",
+      "fullName": "Lisa Thenen"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9f6",
+      "additional": "",
+      "firstName": "Blanka",
+      "lastName": "Hohenthal",
+      "role": "Zweite Elfe",
+      "fullName": "Blanka Hohenthal"
+    },
+    {
+      "_id": "650c0541258213a8dc5f9ad7",
+      "additional": "1937-1944",
+      "firstName": "Ingeborg",
+      "lastName": "Fürst",
+      "role": "Dritte Elfe",
+      "fullName": "Ingeborg Fürst"
+    },
+    {
+      "_id": "6504166ba47588ad6024a603",
+      "additional": "1937-1939",
+      "firstName": "Julia",
+      "lastName": "Binder",
+      "role": "Vierte Elfe",
+      "fullName": "Julia Binder"
+    }
+  ],
+  "crew": [
+    {
+      "_id": "6504166ba47588ad6024a9c9",
+      "additional": "1877-1966",
+      "firstName": "Hofrat Franz",
+      "lastName": "Herterich",
+      "fullName": "Hofrat Franz Herterich",
+      "role": "Regie"
+    },
+    {
+      "_id": "6504166ba47588ad6024a9d4",
+      "additional": "",
+      "firstName": "Stefan",
+      "lastName": "Hlawa",
+      "fullName": "Stefan Hlawa",
+      "role": "Bühnenbild"
+    }
+  ],
+  "authors": [
+    {
+      "_id": "6504166ba47588ad6024b3e2",
+      "additional": "",
+      "firstName": "Gerhart",
+      "lastName": "Hauptmann",
+      "fullName": "Gerhart Hauptmann"
+    }
+  ],
+  "resources": [
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-24.jpg",
+    "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-24_00000002.jpg"
+  ],
+  "comment": "",
+  "productions": [
+    {
+      "_id": "65c61c39d3ced60fbe230724",
+      "uid": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": "Neuinszenierung",
+      "count": "11",
+      "date": "1937-11-15T12:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae44",
+          "additional": "1935-1937",
+          "firstName": "Ernst",
+          "lastName": "Rendl",
+          "role": "Beider Kinder",
+          "fullName": "Ernst Rendl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/01-braunes-buch/0590.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-15.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a694646af2b0e29fdb777e",
+      "uid": "39cc4a0e-3f5a-4261-846b-1340786f3bc3",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-17T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae44",
+          "additional": "1935-1937",
+          "firstName": "Ernst",
+          "lastName": "Rendl",
+          "role": "Beider Kinder",
+          "fullName": "Ernst Rendl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-17.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a695326af2b0e29fdb874d",
+      "uid": "4ddb735b-7547-4b37-88f9-04b939947594",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-20T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae44",
+          "additional": "1935-1937",
+          "firstName": "Ernst",
+          "lastName": "Rendl",
+          "role": "Beider Kinder",
+          "fullName": "Ernst Rendl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-20.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-20_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a72eb96af2b0e29fe76240",
+      "uid": "1402db1b-7819-460d-9d36-b02ca74be8aa",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-24T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae44",
+          "additional": "1935-1937",
+          "firstName": "Ernst",
+          "lastName": "Rendl",
+          "role": "Beider Kinder",
+          "fullName": "Ernst Rendl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-24.jpg",
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-24_00000002.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a72f4a6af2b0e29fe76dab",
+      "uid": "7cf334d0-1c88-4e05-8071-2312f2018ebb",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-26T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae44",
+          "additional": "1935-1937",
+          "firstName": "Ernst",
+          "lastName": "Rendl",
+          "role": "Beider Kinder",
+          "fullName": "Ernst Rendl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-26.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a643346af2b0e29fd52aad",
+      "uid": "c540ba7c-ce6d-4657-b7c2-95d0e8110eb6",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-11-29T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae44",
+          "additional": "1935-1937",
+          "firstName": "Ernst",
+          "lastName": "Rendl",
+          "role": "Beider Kinder",
+          "fullName": "Ernst Rendl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-11-29.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a730876af2b0e29fe786ff",
+      "uid": "a99329e3-0cec-4020-a332-8b64571438a6",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-01T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae44",
+          "additional": "1935-1937",
+          "firstName": "Ernst",
+          "lastName": "Rendl",
+          "role": "Beider Kinder",
+          "fullName": "Ernst Rendl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-01.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6a93a6af2b0e29fdd3a8d",
+      "uid": "9481e99f-bce0-47d6-987b-d792e85d1d7c",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-07T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae44",
+          "additional": "1935-1937",
+          "firstName": "Ernst",
+          "lastName": "Rendl",
+          "role": "Beider Kinder",
+          "fullName": "Ernst Rendl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nickelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-07.jpg"
+      ],
+      "comment": "Festaufführung in Anwesenheit Gerhart Hauptmanns.\nOuverture zur Oper \"Titus\" von W. A. Mozart."
+    },
+    {
+      "_id": "66a6a8446af2b0e29fdd239e",
+      "uid": "7455c20a-04f2-4aed-a9f6-e0e3926b6244",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-13T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024ae44",
+          "additional": "1935-1937",
+          "firstName": "Ernst",
+          "lastName": "Rendl",
+          "role": "Beider Kinder",
+          "fullName": "Ernst Rendl"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-13.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "66a6a9046af2b0e29fdd355a",
+      "uid": "e5c370d6-4e07-4b0e-b1c5-97b45b404895",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1937-12-22T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024adce",
+          "additional": "",
+          "firstName": "Julius",
+          "lastName": "Piloti",
+          "role": "Beider Kinder",
+          "fullName": "Julius Piloti"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/bth_1937/1937-12-22.jpg"
+      ],
+      "comment": ""
+    },
+    {
+      "_id": "6682ab494801253dbd5bed80",
+      "uid": "a41f5e16-7a37-4668-9311-63d9cf832eb0",
+      "productionId": "4b8073ba-7891-4f81-9822-45d9e065702b",
+      "title": "Die versunkene Glocke",
+      "subtitle": "",
+      "location": "Burgtheater",
+      "location2": null,
+      "category": "Schauspiel",
+      "premiere": null,
+      "count": "",
+      "date": "1938-01-06T11:00:00.000Z",
+      "season": "1937/1938",
+      "cast": [
+        {
+          "_id": "6504166ba47588ad6024b237",
+          "additional": "1901-1970",
+          "firstName": "Heinz",
+          "lastName": "Woester",
+          "role": "Heinrich, ein Glockengiesser",
+          "fullName": "Heinz Woester"
+        },
+        {
+          "_id": "656cd92a00806585023581ab",
+          "firstName": "Auguste",
+          "lastName": "Pünkösdy",
+          "additional": "1890-1967",
+          "role": "Magda, sein Weib",
+          "fullName": "Auguste Pünkösdy"
+        },
+        {
+          "_id": "6504166ba47588ad6024adce",
+          "additional": "",
+          "firstName": "Julius",
+          "lastName": "Piloti",
+          "role": "Beider Kinder",
+          "fullName": "Julius Piloti"
+        },
+        {
+          "_id": "6504166ba47588ad6024aad9",
+          "additional": "1937-1940",
+          "firstName": "Josef (Josy)",
+          "lastName": "Kleinpeter",
+          "role": "Beider Kinder",
+          "fullName": "Josef (Josy) Kleinpeter"
+        },
+        {
+          "_id": "6504166ba47588ad6024afe7",
+          "additional": "1872-1953",
+          "firstName": "Hans",
+          "lastName": "Siebert",
+          "role": "Pfarrer",
+          "fullName": "Hans Siebert"
+        },
+        {
+          "_id": "6504166ba47588ad6024b085",
+          "additional": "1868-1938",
+          "firstName": "Fritz",
+          "lastName": "Strassni",
+          "role": "Schulmeister",
+          "fullName": "Fritz Strassni"
+        },
+        {
+          "_id": "6504166ba47588ad6024b180",
+          "additional": "1884-1963",
+          "firstName": "Hermann",
+          "lastName": "Wawra",
+          "role": "Barbier",
+          "fullName": "Hermann Wawra"
+        },
+        {
+          "_id": "6504166ba47588ad6024aa88",
+          "additional": "1885-1971",
+          "firstName": "Lilly",
+          "lastName": "Karoly",
+          "role": "Nachbarin",
+          "fullName": "Lilly Karoly"
+        },
+        {
+          "_id": "6504166ba47588ad6024ac81",
+          "additional": "1880-1960",
+          "firstName": "Lotte",
+          "lastName": "Medelsky",
+          "role": "Die Alte Wittichen",
+          "fullName": "Lotte Medelsky"
+        },
+        {
+          "_id": "6504166ba47588ad6024afa8",
+          "additional": "1937 als Gast",
+          "firstName": "Ellen",
+          "lastName": "Schwannecke",
+          "role": "Rautendelein, ein elbisches Wesen",
+          "fullName": "Ellen Schwannecke"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0f5",
+          "additional": "1871-1965",
+          "firstName": "Otto",
+          "lastName": "Tressler",
+          "role": "Nikkelmann, ein Elementargeist",
+          "fullName": "Otto Tressler"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0df",
+          "additional": "",
+          "firstName": "Hermann",
+          "lastName": "Thimig",
+          "role": "Waldschrat, faunischer Waldgeist",
+          "fullName": "Hermann Thimig"
+        },
+        {
+          "_id": "6504166ba47588ad6024b0d5",
+          "additional": "1937-1938",
+          "firstName": "Lisa",
+          "lastName": "Thenen",
+          "role": "Erste Elfe",
+          "fullName": "Lisa Thenen"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9f6",
+          "additional": "",
+          "firstName": "Blanka",
+          "lastName": "Hohenthal",
+          "role": "Zweite Elfe",
+          "fullName": "Blanka Hohenthal"
+        },
+        {
+          "_id": "650c0541258213a8dc5f9ad7",
+          "additional": "1937-1944",
+          "firstName": "Ingeborg",
+          "lastName": "Fürst",
+          "role": "Dritte Elfe",
+          "fullName": "Ingeborg Fürst"
+        },
+        {
+          "_id": "6504166ba47588ad6024a603",
+          "additional": "1937-1939",
+          "firstName": "Julia",
+          "lastName": "Binder",
+          "role": "Vierte Elfe",
+          "fullName": "Julia Binder"
+        }
+      ],
+      "crew": [
+        {
+          "_id": "6504166ba47588ad6024a9c9",
+          "additional": "1877-1966",
+          "firstName": "Hofrat Franz",
+          "lastName": "Herterich",
+          "fullName": "Hofrat Franz Herterich",
+          "role": "Regie"
+        },
+        {
+          "_id": "6504166ba47588ad6024a9d4",
+          "additional": "",
+          "firstName": "Stefan",
+          "lastName": "Hlawa",
+          "fullName": "Stefan Hlawa",
+          "role": "Bühnenbild"
+        }
+      ],
+      "authors": [
+        {
+          "_id": "6504166ba47588ad6024b3e2",
+          "additional": "",
+          "firstName": "Gerhart",
+          "lastName": "Hauptmann",
+          "fullName": "Gerhart Hauptmann"
+        }
+      ],
+      "resources": [
+        "https://burgtheater-kulturerbe-dev.s3.eu-central-1.amazonaws.com/03-theaterzettel-fullhd/Theaterzettel_Burgtheater/1938/00000008.jpg"
+      ],
+      "comment": "Nachmittags 3 Uhr"
+    }
+  ]
+}
