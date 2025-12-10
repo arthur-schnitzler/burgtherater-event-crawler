@@ -33,3 +33,16 @@ https://kulturerbe-import.burgtheater.at/api/api/v1/performance/6671cd3dcd334071
 https://kulturerbe-import.burgtheater.at/api/api/v1/person/6504166ba47588ad6024a95e
 
 
+
+
+## what to do with the data
+
+* enrich persons with GNDs (Werkvertrag)
+* import persons to PMB (with Burgtheater URI)
+* import events to PMB (with Burgtheater URI)
+* link event to
+  * persons (the data has roles "authors", "crew" "cast")
+  * place/institution (I think it is either Burgtheater or Akademietheater)
+  * to work (this is tricky because afaik the works are not modelled in data)
+    * check if this is actually true
+* call it a day and go for a beer
